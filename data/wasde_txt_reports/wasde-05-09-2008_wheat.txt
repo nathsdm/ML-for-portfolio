@@ -1,0 +1,564 @@
+ISSN:1554-9089 
+Office of the 
+Chief Economist
+World Agricultural Supply
+and Demand Estimates
+United States Department of Agriculture
+Agricultural Marketing Service Economic Research Service
+Farm Service Agency Foreign Agricultural Service
+WASDE-458                  Approved by the World Agricultural Outlook Board May 9, 2008
+NOTE:  This report presents USDA's initial assessment of U.S. and world crop supply and demand prospects and U.S. prices
+for the 2008/09 season.  Also presented are the first calendar-year 2009 projections of U.S. livestock, poultry, and dairy
+products.  Projections reflect economic analysis, normal weather, trends, and judgment.  Because spring planting is still
+underway in the Northern Hemisphere and remains several months away in the Southern Hemisphere, these projections are
+highly tentative.  National Agricultural Statistics Service (NASS) forecasts are used for U.S. winter wheat area, yield, and
+production.  For other U.S. crops, the March 31 NASS Prospective Plantings report is used for planted acreage.  Methods
+used to project harvested acreage and yield are noted on each table
+.
+WHEAT:  The 2008/09 U.S. wheat outlook is for higher production, lower exports, and increased
+domestic use.  Total production is projected at 2.4 billion bushels, up 16 percent from 2007/08.  The
+survey-based forecast of winter wheat production is up 17 percent as area and yield are higher than
+last year.  Spring wheat production is expected higher with seeded area up 10 percent in the March 31
+Prospective Plantings report.  Durum and other spring wheat production is projected at 614 million
+bushels, up 12 percent from 2007/08, based on 10-year harvested-to-planted ratios and trend yields. 
+Total wheat supplies are projected up only 4 percent because of historically low carryin.  
+Total wheat use is projected down 5 percent for 2008/09 as lower exports more than offset increased
+domestic use.  Food use is projected at 960 million bushels, up 10 million from the current year
+reflecting steady growth in domestic demand.  Feed and residual use is projected at 230 million
+bushels, up sharply from the 60 million projected for 2007/08.  Larger supplies of soft red winter wheat
+and higher corn prices boost wheat feeding.  Exports are projected at 975 million bushels, down 24
+percent from 2007/08.  Ending stocks for 2008/09 are projected at 483 million bushels, more than
+double the current year’s projected 239 million.  The national average farm price for 2008/09 is
+projected at $6.60 to $8.10 per bushel, compared with the current year forecast of a record $6.55 per
+bushel.  Wheat prices will be supported by farmer forward sales and early season export demand.  
+Global wheat production for 2008/09 is projected at a record 656 million tons, up 8 percent from
+2007/08, and up 5 percent from the previous record in 2004/05.  Higher production is projected for most
+of the world’s major exporting countries including Australia, Canada, EU-27, Russia, and Ukraine. 
+Strong world prices and favorable weather in most of EU-27 and FSU-12 raised production for 2008. 
+Production is also projected higher in Brazil, China, and India.  Partly offsetting are reductions for
+Argentina and Kazahkstan.  The only significant weather problems for winter wheat remain in drought-
+stricken Middle East and North Africa countries.
+World wheat imports, exports, and consumption are projected higher for 2008/09.  Imports are
+generally projected higher throughout the world with EU-27 the major exception.  Imports are expected
+to fall sharply for EU-27 as wheat production rebounds from weather-reduced crops in the 2 previous
+years.  EU-27 exports and wheat feeding are expected to rise sharply.  World wheat ending stocks are
+projected at 124 million tons, up 13 percent from the current year’s projection.
+COARSE GRAINS:  The 2008/09 U.S. feed grains outlook is for lower production, strong domestic
+demand, and lower ending stocks.  The 2008/09 corn crop is projected at 12.1 billion bushels, down 7
+percent from the record 2007/08 crop.  Planted area is from producer intentions reported in 
+Prospective Plantings.  Harvested area is based on historical abandonment and derived demand for
+silage.  The yield is projected at 153.9 bushels per acre, 1 bushel per acre below the 1990-2007 trend
+
+WASDE-458-6
+Note:  The World Agricultural Outlook Board reviews and approves the World Agricultural
+Supply and Demand Estimates (WASDE) report.  The Board’s analysts chair the Interagency
+Commodity Estimates Committees (ICECs) that prepare the monthly report. 
+Wheat:  Jerry Norton, ICEC Chair, WAOB, E-mail:  jnorton@oce.usda.gov
+Gary Vocke, ERS; Joshua Lagos, FAS; Dennis Shields, FSA.
+Rice:  Andrew C. Aaronson, ICEC Chair, WAOB, E-mail:  aaaronson@oce.usda.gov
+Nathan Childs, ERS; Robert Miller, FAS; William Chambers, FSA.
+Feed Grains:  Jerry Norton, ICEC Chair, WAOB, E-mail:  jnorton@oce.usda.gov
+Allen Baker, ERS; Richard O’Meara, FAS; Pete Riley, FSA.
+Oilseeds:  Keith Menzie, ICEC Chair, WAOB, E-mail:  kmenzie@oce.usda.gov
+Mark Ash, ERS; Bill George, FAS; Max Fisher, FSA.
+Cotton:  Carol Skelly, ICEC Chair, WAOB, E-mail:  cskelly@oce.usda.gov
+Darryl Earnest, AMS; Leslie Meyer, ERS; James Johnson, FAS; Steven Neff, FSA.
+Sugar:  John Love, ICEC Chair, WAOB, E-mail:  jlove@oce.usda.gov 
+Stephen Haley, ERS; Ron Lord, FAS; Barbara Fecso, FSA.
+Meat Animals:  Shayle Shagam, ICEC Chair, WAOB, E-mail:  sshagam@oce.usda.gov
+Warren Preston, AMS; Mildred M. Haley, ERS; Claire Mezoughem, FAS; Dale Leuck, FSA.
+Poultry:  Shayle Shagam, ICEC Chair, WAOB, E-mail:  sshagam@oce.usda.gov
+Marc Warman, AMS; David Harvey, ERS; Michelle DeGraaf, FAS; Milton Madison, FSA. 
+Dairy:  Shayle Shagam, ICEC Chair, WAOB, E-mail:  sshagam@oce.usda.gov
+Jerry Cessna, AMS; Roger Hoskin, ERS; Paul Kiendl, FAS; Milton Madison, FSA.
+INTERAGENCY COMMODITY ESTIMATES COMMITTEES
+In 2008, the WASDE report will be released on
+June 10, July 11, Aug. 12, Sep. 12, Oct. 10,
+Nov. 10, Dec. 11.
+WASDE-458-7
+Page
+H i g h l i g h t s ........................................................ 1
+Interagency Commodity Estimates Committees ........................... 6
+World & U.S. Supply & Use for Grains .................................. 8
+World & U.S. Supply & Use for Cotton .................................. 9
+World & U.S. Supply & Use for Oilseeds ............................... 1 0
+U.S. Wheat Supply & Use ........................................... 1 1
+U.S. Wheat Supply & Use by Class ................................... 1 1
+U.S. Feed Grain & Corn Supply & Use ................................. 1 2
+U.S. Sorghum, Barley, & Oats Supply & Use ............................ 1 3
+U.S. Rice Supply & Use ............................................ 1 4
+U.S. Soybeans & Products Supply & Use ............................... 1 5
+U.S. Sugar Supply & Use ........................................... 1 6
+U.S. Cotton Supply & Use .......................................... 1 7
+World Wheat Supply & Use ......................................... 1 8
+World Coarse Grains Supply & Use ................................... 2 0
+World Corn Supply & Use ........................................... 2 2
+World Rice Supply & Use ........................................... 2 4
+World Cotton Supply & Use ......................................... 2 6
+World Soybean Supply & Use ........................................ 2 8
+World Soybean Meal Supply & Use ................................... 2 9
+World Soybean Oil Supply & Use ..................................... 3 0
+U.S. Quarterly Animal Product Production .............................. 3 1
+U.S. Quarterly Prices for Animal Products .............................. 3 1
+U.S. Meats Supply and Use ......................................... 3 2
+U.S. Egg Supply & Use ............................................. 3 3
+U.S. Milk Supply and Use ........................................... 3 3
+U . S .  D a i r y  P r i c e s ................................................. 3 4
+Reliability Tables .................................................. 3 5
+Related USDA Reports ............................................. 3 8
+M e t r i c  C o n v e r s i o n  F a c t o r s .......................................... 3 8
+Electronic Access and Subscriptions .................................. 4 0
+T A B L E   OF   C O N T E N T S
+WASDE-458-8
+                                WASDE-458-8
+
+World and U.S. Supply and Use for Grains 1/
+                              Million Metric Tons
+===============================================================================
+                      :           :   Total   :          :  Total   :  Ending
+     Commodity        :   Output  :   Supply  : Trade 2/ :   Use    :  Stocks
+===============================================================================
+                      :
+                      :                         World
+Total grains 3/       :
+      2006/07         :  1,995.21   2,383.41     258.34    2,048.71    334.69
+      2007/08 (Est.)  :  2,100.60   2,435.29     262.27    2,111.80    323.50
+      2008/09 (Proj.) :
+               May    :  2,158.69   2,482.19     263.80    2,148.38    333.80
+Wheat                 :
+      2006/07         :    592.00     739.50     110.69      615.45    124.05
+      2007/08 (Est.)  :    606.40     730.45     109.56      620.43    110.02
+      2008/09 (Proj.) :
+               May    :    656.01     766.04     117.46      642.04    123.99
+Coarse grains 4/      :
+      2006/07         :    982.62   1,147.62     116.83    1,012.82    134.81
+      2007/08 (Est.)  :  1,067.13   1,201.94     125.67    1,066.97    134.96
+      2008/09 (Proj.) :
+               May    :  1,070.64   1,205.60     119.33    1,078.37    127.23
+Rice, milled          :
+      2006/07         :    420.60     496.28      30.82      420.45     75.84
+      2007/08 (Est.)  :    427.07     502.90      27.05      424.40     78.51
+      2008/09 (Proj.) :
+               May    :    432.04     510.55      27.01      427.97     82.58
+                      :
+                      :                     United States
+Total grains 3/       :
+      2006/07         :    335.67     413.87      86.12      277.90     49.85
+      2007/08 (Est.)  :    413.62     469.74     110.07      314.07     45.59
+      2008/09 (Proj.) :
+               May    :    396.56     448.34      87.67      323.77     36.90
+Wheat                 :
+      2006/07         :     49.32      68.18      24.73       31.04     12.41
+      2007/08 (Est.)  :     56.25      71.25      34.84       29.89      6.52
+      2008/09 (Proj.) :
+               May    :     65.10      74.34      26.54       34.67     13.13
+Coarse grains 4/      :
+      2006/07         :    280.11     337.43      58.45      242.81     36.17
+      2007/08 (Est.)  :    351.06     390.23      71.65      280.19     38.38
+      2008/09 (Proj.) :
+               May    :    325.16     366.29      58.00      285.07     23.22
+Rice, milled          :
+      2006/07         :      6.24       8.26       2.94        4.05      1.27
+      2007/08 (Est.)  :      6.31       8.26       3.58        3.99      0.69
+      2008/09 (Proj.) :
+               May    :      6.30       7.71       3.13        4.02      0.55
+===============================================================================
+1/ Aggregate of local marketing years.  2/ Based on export estimate.  See
+individual commodity tables for treatment of export/import imbalances.  3/
+Wheat, coarse grains and milled rice.  4/ Corn, sorghum, barley, oats, rye,
+millet and mixed grains (for U.S. excludes millet and mixed grains).
+                                 WASDE-458-9
+
+World and U.S. Supply and Use for Grains, Continued 1/
+                              Million Metric Tons
+===============================================================================
+                      :           :   Total   :          :  Total   :  Ending
+     Commodity        :   Output  :   Supply  : Trade 2/ :   Use    :  Stocks
+===============================================================================
+                      :
+                      :                         Foreign 3/
+Total grains 4/       :
+      2006/07         :  1,659.54   1,969.54     172.23    1,770.81    284.84
+      2007/08 (Est.)  :  1,686.97   1,965.56     152.20    1,797.72    277.90
+      2008/09 (Proj.) :
+               May    :  1,762.13   2,033.85     176.14    1,824.61    296.90
+Wheat                 :
+      2006/07         :    542.68     671.32      85.96      584.41    111.64
+      2007/08 (Est.)  :    550.15     659.21      74.73      590.54    103.50
+      2008/09 (Proj.) :
+               May    :    590.91     691.70      90.93      607.37    110.86
+Coarse grains 5/      :
+      2006/07         :    702.51     810.19      58.39      770.00     98.63
+      2007/08 (Est.)  :    716.07     811.71      54.02      786.78     96.58
+      2008/09 (Proj.) :
+               May    :    745.48     839.31      61.33      793.29    104.01
+Rice, milled          :
+      2006/07         :    414.36     488.02      27.88      416.40     74.57
+      2007/08 (Est.)  :    420.75     494.64      23.46      420.41     77.82
+      2008/09 (Proj.) :
+               May    :    425.75     502.85      23.88      423.95     82.03
+===============================================================================
+1/ Aggregate of local marketing years.  2/ Based on export estimate.  See
+individual commodity tables for treatment of export/import imbalances.   3/
+Total foreign is equal to world minus United States.   4/ Wheat, coarse grains
+and milled rice.  5/ Corn, sorghum, barley, oats, rye, millet and mixed
+grains.
+
+U.S. Wheat Supply and Use 1/
+===============================================================================
+                            :         :         :      2008/09  Projections
+        Item                : 2006/07 : 2007/08 :==============================
+                            :         :   Est.  :                         May
+===============================================================================
+Area                        :               Million acres
+ Planted                    :   57.3       60.4                          63.8 *
+ Harvested                  :   46.8       51.0                          56.3 *
+Yield per harvested         :                   Bushels
+    acre                    :   38.7       40.5                          42.5 *
+                            :             Million bushels
+Beginning stocks            :    571        456                           239
+Production                  :  1,812      2,067                         2,392
+Imports                     :    122         95                           100
+  Supply, total             :  2,505      2,618                         2,732
+Food                        :    938        950                           960
+Seed                        :     81         88                            84
+Feed and residual           :    121         60                           230
+  Domestic, total           :  1,140      1,098                         1,274
+Exports                     :    909      1,280                           975
+  Use, total                :  2,049      2,378                         2,249
+Ending stocks               :    456        239                           483
+  CCC inventory             :     41         24
+  Free stocks               :    415        215
+    Outstanding loans       :     14          1
+Avg. farm price ($/bu) 2/   :   4.26       6.55                    6.60- 8.10
+===============================================================================
+
+U.S. Wheat by Class: Supply and Use
+===============================================================================
+   Year beginning           :  Hard  :   Hard  :  Soft  :       :       :     
+     June 1                 : Winter :  Spring :  Red   : White : Durum :Total 
+===============================================================================
+2007/08 (estimated)         :                Million bushels
+Beginning stocks            :    165       117     109       44      22     456
+Production                  :    962       449     358      227      72   2,067
+  Supply, total 3/          :  1,127       608     477      278     128   2,618
+Domestic use                :    491       234     211       86      76   1,098
+Exports                     :    540       310     225      165      40   1,280
+  Use, total                :  1,031       544     436      251     116   2,378
+  Ending stocks        May  :     96        64      41       26      12     239
+                       Apr  :    101        58      42       27      14     242
+===============================================================================
+Note:  Totals may not add due to rounding.  1/ Marketing year beginning June 1.
+ 2/ Marketing-year weighted average price received by farmers.  3/ Includes
+imports.  * Planted acres reported in the March 31, 2008, "Prospective
+Plantings."  Harvested acres and yield for other spring wheat and durum are
+projected using 10-year harvested-to-planted ratios by state and projected
+yield derived from 1985-2007 trend yields by state (except Idaho durum). 
+Winter wheat harvested acreage and yield reported in the May 9, 2008, "Crop
+Production."
+******************************************************************************
+*                                                                            *
+*                                                                            *
+*       Wheat-by-class projections for 2008/09 will first be published       *
+*                        in the July 11, 2008, WASDE.                        *
+*                                                                            *
+*                                                                            *
+******************************************************************************
+                                 WASDE-458-12
+
+World Wheat Supply and Use 1/
+                             (Million Metric Tons)
+===============================================================================
+                      :          Supply         :           Use         :
+                      :=========================:=======================:Ending
+        Region        :         :       :       :  Domestic 2/  :       :stocks
+                      :Beginning:Produc-:       :===============:       :
+                      :  stocks : tion  :Imports: Feed : Total  :Exports:
+===============================================================================
+                      :
+                      :                      2006/07
+                      :
+World 3/              :  147.50  592.00  112.33  105.76  615.45  110.69  124.05
+United States         :   15.55   49.32    3.32    3.29   31.04   24.73   12.41
+Total foreign         :  131.96  542.68  109.01  102.47  584.41   85.96  111.64
+  Major exporters 4/  :   43.15  175.89    5.56   69.31  146.54   52.74   25.32
+   Argentina          :    0.50   15.20    0.01    0.08    4.90   10.50    0.31
+   Australia          :    9.62   10.64    0.09    4.70    7.40    8.73    4.22
+   Canada             :    9.64   25.27    0.32    4.33    8.74   19.64    6.85
+   EU-27 5/           :   23.39  124.78    5.14   60.20  125.50   13.87   13.94
+  Major importers 6/  :   60.11  170.70   55.01    7.70  219.78    5.21   60.82
+   Brazil             :    1.33    2.23    7.75    0.20   10.50    0.04    0.78
+   China              :   34.89  104.47    0.38    4.00  101.00    2.78   35.96
+   Select. Mideast 7/ :    6.82   20.12   10.52    1.55   30.31    0.55    6.59
+   N. Africa 8/       :   10.51   18.53   16.30    0.25   33.90    0.26   11.18
+   Pakistan           :    2.96   21.28    0.06    0.40   21.90    0.20    2.20
+   Southeast Asia 9/  :    2.20    0.00   10.65    0.90    9.98    0.42    2.46
+  Selected other      :
+   India              :    2.00   69.35    6.71    0.30   73.36    0.20    4.50
+   FSU-12             :   12.72   84.98    5.93   21.65   72.64   22.35    8.65
+    Russia            :    3.81   44.90    0.86   14.10   36.40   10.79    2.38
+    Kazakhstan        :    3.01   13.50    0.03    2.70    7.50    8.00    1.04
+    Ukraine           :    2.41   14.00    0.08    2.10   11.70    3.37    1.43
+                      :
+                      :                 2007/08 (Estimated)
+                      :
+World 3/              :  124.05  606.40  107.31   98.04  620.43  109.56  110.02
+United States         :   12.41   56.25    2.59    1.63   29.89   34.84    6.52
+Total foreign         :  111.64  550.15  104.73   96.41  590.54   74.73  103.50
+  Major exporters 4/  :   25.32  168.13    6.86   60.25  139.09   41.00   20.21
+   Argentina          :    0.31   15.50    0.01    0.08    5.43   10.00    0.38
+   Australia          :    4.22   13.10    0.08    3.50    6.20    7.50    3.70
+   Canada             :    6.85   20.05    0.28    3.00    8.50   14.50    4.17
+   EU-27 5/           :   13.94  119.48    6.50   53.67  118.97    9.00   11.95
+  Major importers 6/  :   60.82  171.69   55.95    8.87  222.22    7.86   58.37
+   Brazil             :    0.78    3.83    7.00    0.20   10.50    0.75    0.35
+   China              :   35.96  106.00    0.20    6.00  102.50    2.70   36.96
+   Select. Mideast 7/ :    6.59   20.30    9.15    1.00   29.30    0.55    6.19
+   N. Africa 8/       :   11.18   13.82   18.80    0.15   34.93    0.16    8.72
+   Pakistan           :    2.20   23.30    1.70    0.40   22.40    2.20    2.60
+   Southeast Asia 9/  :    2.46    0.00   10.00    0.82   10.25    0.53    1.68
+  Selected other      :
+   India              :    4.50   75.81    2.00    0.20   75.85    0.05    6.41
+   FSU-12             :    8.65   92.69    5.63   23.98   75.87   21.35    9.75
+    Russia            :    2.38   49.40    1.00   15.40   38.20   12.00    2.58
+    Kazakhstan        :    1.04   16.60    0.03    2.70    7.50    8.50    1.67
+    Ukraine           :    1.43   13.90    0.35    3.10   12.75    0.70    2.23
+===============================================================================
+1/ Aggregate of local marketing years.  2/ Total foreign and world use
+adjusted to reflect the differences in world imports and exports.  3/ World
+imports and exports may not balance due to differences in marketing years,
+grain in transit, and reporting discrepancies in some countries. 4/ Argentina,
+Australia, Canada, and the EU-27. 5/ Trade excludes intra-trade. 6/ Brazil,
+China, Japan, Mexico, N. Africa, Pakistan, selected Middle East, and Southeast
+Asia. 7/ Lebanon, Iraq, Iran, Israel, Jordan, Kuwait, Saudi Arabia, Yemen,
+United Arab Emirates, and Oman. 8/ Algeria, Egypt, Libya, Morocco, and
+Tunisia. 9/ Indonesia, Malaysia, Philippines, Thailand, and Vietnam. 
+                                 WASDE-458-19
+
+World Wheat Supply and Use 1/ (Cont'd.)
+                             (Million Metric Tons)
+===============================================================================
+                      :          Supply         :           Use         :
+                      :=========================:=======================:Ending
+        Region        :         :       :       :  Domestic 2/  :       :stocks
+                      :Beginning:Produc-:       :===============:       :
+                      :  stocks : tion  :Imports: Feed : Total  :Exports:
+===============================================================================
+                      :
+                      :                 2008/09 (Projected)
+World 3/              :
+             May      :  110.02  656.01  114.59  113.11  642.04  117.46  123.99
+United States         :
+             May      :    6.52   65.10    2.72    6.26   34.67   26.54   13.13
+Total foreign         :
+             May      :  103.50  590.91  111.86  106.85  607.37   90.93  110.86
+  Major exporters 4/  :
+             May      :   20.21  204.00    5.38   69.08  148.38   56.50   24.71
+   Argentina      May :    0.38   15.00    0.01    0.08    5.48    9.50    0.41
+   Australia      May :    3.70   24.00    0.08    3.50    6.20   15.00    6.57
+   Canada         May :    4.17   25.00    0.30    2.50    7.70   17.00    4.77
+   EU-27 5/       May :   11.95  140.00    5.00   63.00  129.00   15.00   12.95
+  Major importers 6/  :
+             May      :   58.37  171.06   62.43    9.75  225.17    6.21   60.48
+   Brazil         May :    0.35    4.50    7.30    0.20   10.55    0.80    0.80
+   China          May :   36.96  109.00    0.03    7.00  104.00    2.00   39.99
+   Sel. Mideast 7/May :    6.19   15.92   12.85    1.20   29.80    0.55    4.62
+   N. Africa 8/   May :    8.72   15.76   20.30    0.20   35.43    0.21    9.14
+   Pakistan       May :    2.60   21.50    2.00    0.40   22.90    1.00    2.20
+   SE Asia 9/     May :    1.68    0.00   10.75    0.50   10.10    0.53    1.81
+  Selected other      :
+   India          May :    6.41   76.78    0.10    0.20   78.10    0.05    5.14
+   FSU-12         May :    9.75   99.34    6.03   24.80   77.35   24.94   12.84
+    Russia        May :    2.58   52.00    1.00   16.00   39.00   12.50    4.08
+    Kazakhstan    May :    1.67   14.00    0.03    2.70    7.50    6.00    2.20
+    Ukraine       May :    2.23   20.00    0.10    3.20   13.00    6.00    3.33
+===============================================================================
+1/ Aggregate of local marketing years.  2/ Total foreign and world use
+adjusted to reflect the differences in world imports and exports.  3/ World
+imports and exports may not balance due to differences in marketing years,
+grain in transit, and reporting discrepancies in some countries. 4/ Argentina,
+Australia, Canada, and the EU-27. 5/ Trade excludes intra-trade. 6/ Brazil,
+China, Japan, Mexico, N. Africa, Pakistan, selected Middle East, and Southeast
+Asia. 7/ Lebanon, Iraq, Iran, Israel, Jordan, Kuwait, Saudi Arabia, Yemen,
+United Arab Emirates, and Oman. 8/ Algeria, Egypt, Libya, Morocco, and
+Tunisia. 9/ Indonesia, Malaysia, Philippines, Thailand, and Vietnam. 
+                                 WASDE-458-20
+
+Note: Tables on pages 35-37 present a 27-year record of the differences between
+the May projection and the final estimate. Using world wheat production as an
+example, changes between the May projection and the final estimate have
+averaged 14.7 million tons (2.7%) ranging from -35.0 to 30.0 million tons. The 
+May projection has been below the estimate 15 times and above 12 times.
+
+Reliability of May Projections
+===============================================================================
+                 :Differences between proj. & final estimate,1981/82-2007/08 1/
+  Commodity and  :=============================================================
+      region     :  Avg. :  Avg. :    Difference    : Below final : Above final
+===============================================================================
+WHEAT            :Percent      Million metric tons          Number of years 2/
+   Production    :
+       World     :   2.7    14.7     -35.0    30.0             15          12
+       U.S.      :   5.2     3.1      -7.2     9.8             12          15
+       Foreign   :   2.8    13.4     -32.9    28.7             14          13
+   Exports       :
+       World     :   4.3     4.9     -16.3    12.7             17          10
+       U.S.      :   8.9     3.0     -10.0     7.8             16          10
+       Foreign   :   5.3     4.3     -12.0    11.2             18           9
+   Domestic use  :
+       World     :   1.8     9.6     -28.0    19.9             17          10
+       U.S.      :   6.0     1.9      -6.4     4.0             16          11
+       Foreign   :   1.7     8.5     -24.7    18.4             18           9
+   Ending stocks :
+       World     :   8.8    11.1     -24.4    26.9             15          12
+       U.S.      :  19.0     3.6      -9.0    14.1             14          13
+       Foreign   :   9.6     9.6     -23.3    16.8             15          12
+                 :
+COARSE GRAINS 3/ :
+   Production    :
+       World     :   2.9    24.4     -72.3    75.3             12          15
+       U.S.      :   9.3    19.7     -35.9    70.3             14          13
+       Foreign   :   2.3    14.0     -36.8    42.8              9          18
+   Exports       :
+       World     :   6.3     6.6     -14.9    15.5             18           9
+       U.S.      :  15.2     8.1     -22.8    15.3             12          15
+       Foreign   :  12.4     6.4     -20.8    14.2             16          11
+   Domestic use  :
+       World     :   1.7    14.4     -23.4    32.4             12          15
+       U.S.      :   4.2     7.8     -16.6    33.0             18           9
+       Foreign   :   1.6    10.7     -17.1    32.8             13          14
+   Ending stocks :
+       World     :  15.9    21.2     -71.4    48.1             16          11
+       U.S.      :  37.2    17.7     -57.6    43.8             12          15
+       Foreign   :  14.2    10.7     -25.9    18.6             18           9
+                 :
+RICE, milled     :
+   Production    :
+       World     :   2.0     7.0     -21.8    15.2             17          10
+       U.S.      :   5.7     0.3      -1.0     0.5             16          11
+       Foreign   :   2.1     7.1     -22.0    15.3             17          10
+   Exports       :
+       World     :   8.3     1.7      -7.5     2.2             19           8
+       U.S.      :   9.0     0.3      -1.0     0.7             15           9
+       Foreign   :   9.1     1.6      -7.1     2.8             19           8
+   Domestic use  :
+       World     :   1.6     5.4     -19.4     5.6             19           8
+       U.S.      :   7.1     0.2      -0.5     0.6              9          16
+       Foreign   :   1.6     5.5     -20.0     5.4             20           7
+   Ending stocks :
+       World     :  11.7     5.4     -17.0     9.0             19           8
+       U.S.      :  28.7     0.3      -0.8     0.9             14          11
+       Foreign   :  12.4     5.4     -16.7     9.1             19           8
+===============================================================================
+1/ Footnotes at end of table.                                        CONTINUED
+                                   WASDE-458-36
+
+Reliability of United States May Projections 1/
+===============================================================================
+                 :Differences between proj. & final estimate,1981/82-2007/08 2/
+  Commodity and  :=============================================================
+      region     :  Avg. :  Avg. :    Difference    : Below final : Above final
+===============================================================================
+CORN             :Percent        Million bushels           Number of years 3/
+   Production    :   9.6     682     -1382    2379             12          15
+   Exports       :  16.3     298      -850     583             13          14
+   Domestic use  :   4.7     299      -558    1095             19           8
+   Ending stocks :  44.0     629     -2091    1459             12          15
+                 :
+SORGHUM          :
+   Production    :  16.6      98      -228     171             11          15
+   Exports       :  19.6      45      -125      97             13          14
+   Domestic use  :  15.7      58      -162     100             12          15
+   Ending stocks :  47.8      62      -238     191             11          16
+                 :
+BARLEY           :
+   Production    :   9.6      33       -73     206              9          18
+   Exports       :  34.7      18       -92      53             15          10
+   Domestic use  :  10.0      34       -72      95             14          12
+   Ending stocks :  17.5      26       -60      78             11          16
+                 :
+OATS             :
+   Production    :  18.5      41       -77     231              7          20
+   Exports       :  68.9       2        -5       8              7          10
+   Domestic use  :   7.6      25       -39     160             10          17
+   Ending stocks :  16.1      17       -62      77              6          18
+                 :
+                 :           Thousand short tons
+SOYBEAN MEAL     :
+   Production    :   4.5    1409     -3696    4162             18           9
+   Exports       :  17.0    1088     -2750    2364             15          11
+   Domestic use  :   3.2     768     -1800    1559             15          12
+   Ending stocks :  30.7      74      -234     388             11          14
+                 :
+                 :              Million pounds
+SOYBEAN OIL      :
+   Production    :   4.6     687     -1973    1443             18           9
+   Exports       :  28.3     474     -1700     925             14          13
+   Domestic use  :   3.0     413      -985    1000             18           9
+   Ending stocks :  34.1     541     -1702    1188             16          11
+-------------------------------------------------------------------------------
+                 :
+ANIMAL PROD. 4/  :              Million pounds
+   Beef          :   1.8     433      -538    1319             17           9
+   Pork          :   1.8     304      -779     826             18           8
+   Broilers      :   1.1     270      -687     659             16          10
+   Turkeys       :   1.6      70      -234     173             14          12
+                 :
+                 :              Million dozen
+   Eggs          :   0.9      58       -83     123             18           8
+                 :
+                 :              Billion pounds
+   Milk          :   0.9     1.3      -4.5     5.2             13          13
+===============================================================================
+1/ See pages 35 and 36 for record of reliability for U.S. wheat, rice,
+soybeans, and cotton. 2/ Final estimate for 1981/82-2006/07 is defined as the
+first November estimate following the marketing year, and for 2007/08 last
+month's estimate.  3/ May not total 27 for crops and 26 for animal production
+if projection was the same as the final estimate. 4/ Calendar years 1982 thru
+2007 for meats, eggs, and milk. Final for animal products is defined as latest 
+annual production estimate published by NASS.
+WASDE-458-38
+The WASDE report incorporates information from a number of statistical reports published by
+USDA 
+and other government agencies.  In turn, the WASDE report provides a framework for more
+detailed 
+reports issued by USDA’s Economic Research Service and Foreign Agricultural Service.  For
+more information on how the WASDE report is prepared, go to:
+http://www.usda.gov/oce/commodity/wasde.
+The Foreign Agricultural Service publishes Production, Supply, and Demand Online, a
+comprehensive database of supply and demand balances by commodity for 190 countries and
+regions at http://www.fas.usda.gov/psd/online.  Data for grains, oilseeds, and cotton are
+updated monthly and data for other commodities are updated less frequently. 
+Preliminary foreign production assessments and satellite imagery analysis used to prepare the
+WASDE
+report are provided by the Production Estimates and Crop Assessment Division (PECAD) of
+FAS.
+PECAD is located at www.pecad.fas.usda.gov/. 
+1 Hectare = 2.4710 Acres
+1 Kilogram = 2.20462 Pounds
+Metric-Ton Equivalent = Domestic Unit Factor
+Wheat & Soybeans
+Rice
+Corn, Sorghum, & Rye
+Barley
+Oats
+Sugar
+Cotton
+bushels
+cwt
+bushels
+bushels
+bushels
+short tons
+480-lb bales
+.027216
+.045359
+.025401
+.021772
+.014515
+.907185
+.217720
+Related USDA Reports
+Supply and Demand Database
+Foreign Production Assessments
+Metric Conversion Factors

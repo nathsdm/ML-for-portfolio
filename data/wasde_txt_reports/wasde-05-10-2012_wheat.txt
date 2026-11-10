@@ -1,0 +1,245 @@
+Note: This report presents USDA’s initial assessment of U.S. and world crop supply and demand prospects and 
+U.S. prices for the 2012/13 season.  Also presented are the first calendar-year 2013 projections of U.S. livestock, 
+poultry, and dairy products.  Projections reflect economic analysis, normal weather, trends, and judgment.  
+Because spring planting is still underway in the Northern Hemisphere and remains several months away in the 
+Southern Hemisphere, these projections are highly tentative.  Forecasts for U.S. winter wheat area, yield, and 
+production are from the May 10 Crop Production report.  For other U.S. crops, the March 30 Prospective Plantings 
+report is used for planted acreage.  Methods used to project harvested acreage and yield are noted in each table.
+
+WHEAT: The 2012/13 outlook for U.S. wheat is for larger supplies and use, but lower prices.  All wheat 
+production is projected at 2,245 million bushels, up 12 percent from last year’s weather-reduced crop and 
+the highest since 2008/09.  The all wheat yield, projected at 45.7 bushels per acre, is up 2.0 bushels from 
+last year, but 0.6 bushels below the 2010/11 level.  The survey-based forecast for 2012/13 winter wheat 
+production is up 13 percent with a forecast record yield of 47.6 bushels per acre as a recovery in yields in 
+the southern and central Plains boost Hard Red Winter (HRW) wheat production sharply from the previous 
+year.  Partly offsetting is lower forecast production for Soft Red Winter wheat and White wheat compared 
+with last year.  Spring wheat production for 2012/13 is expected to rebound with a recovery in durum area 
+and higher projected yields for other spring wheat, which are expected to offset the decline in other spring 
+area.  U.S. wheat supplies for 2012/13 are projected at 3,133 million bushels, up 5 percent from 2011/12.
+
+Total U.S. wheat use for 2012/13 is projected up 8 percent year-to-year on higher expected domestic use 
+and exports.  Food use is projected at 945 million bushels, up 15 million from 2011/12 as flour extraction 
+rates are expected to decline modestly from historical highs in recent years and consumption grows with 
+population.  Feed and residual use is projected at 230 million bushels, up 50 million from the 2011/12 
+projection as favorable wheat prices relative to corn and larger HRW supplies boost summer quarter wheat 
+feed and residual disappearance.  U.S. exports for 2012/13 are projected at 1,150 million bushels, up 125 
+million from this month’s 25-million-bushel higher projection for 2011/12.  Larger supplies, more competitive 
+prices, and an early expected start to this year’s harvest open the door to higher demand for U.S. wheat 
+during the coming months.  U.S. ending stocks are projected to continue their decline from the recent high in 
+2009/10.  At a projected 735 million bushels, 2012/13 ending stocks are expected down 33 million from 
+2011/12 and 241 million below 2009/10.  The season-average farm price for all wheat is projected at $5.50 
+to $6.70 per bushel, down sharply from the record $7.25 per bushel projected for 2011/12.
+
+Global wheat supplies for 2012/13 are projected 2 percent lower on the year as a 23.8-million-ton reduction 
+in foreign production offsets the increase in U.S. output.  At the projected 677.6 million tons, global 
+production is down 17.1 million from 2011/12.  Lower 2012/13 production for FSU-12, EU-27, Australia, 
+Morocco, Argentina, Turkey, and Pakistan accounts for most of the reduction.  Record production for India 
+and China and larger crops in Canada, Afghanistan, Algeria, and Iran limit the decline.
+
+Global wheat trade for 2012/13 is expected to be lower than in 2011/12 with world imports projected down 
+6.1 million tons to 135.3 million.  Some of the largest reductions are for EU-27, South Korea, Mexico, Japan, 
+the Philippines, and Saudi Arabia where wheat feeding is also reduced.  Exports are reduced for FSU-12, 
+Argentina, EU-27, Australia, and Brazil, but raised for Canada.  Global wheat feeding is lowered 13.9 million 
+tons from 2011/12 with lower expected supplies of feed-quality wheat and record projected coarse grain 
+supplies.  Global wheat consumption is projected down 7.9 million tons or 1 percent from 2011/12 as small 
+increases in food use in most countries partly offset the decline in global wheat feeding.  Global ending 
+stocks for 2012/13 are projected at 188.1 million tons, down 8.9 million on the year.  Stocks are expected to 
+remain sharply higher than the recent low of 125.6 million tons in 2007/08. 
+WASDE-506-2
+
+Projected corn ending stocks for 2011/12 are raised 50 million bushels to 851 million with lower expected 
+June-August feed and residual disappearance.  The large year-to-year increase in winter wheat production 
+and attractive prices for wheat relative to corn are expected to raise summer wheat feeding.  Record mid-
+April corn plantings and early May crop emergence boost prospects for early 2012-crop corn usage before 
+the September 1 beginning of the 2012/13 marketing year.  As in recent years, this late-summer new-crop 
+usage is expected to displace old-crop usage and boost carryout.
+
+Wheat:  Jerry Norton, ICEC Chair, WAOB, E-mail:  jnorton@oce.usda.gov 
+Gary Vocke, ERS; Teresa McKeivier, FAS; William Chambers, FSA.
+
+Page 
+Highlights ............................................................................................................... 1 
+Interagency Commodity Estimates Committees ..................................................... 6 
+World & U.S. Supply & Use for Grains ................................................................... 8 
+World & U.S. Supply & Use for Cotton ................................................................... 9 
+World & U.S. Supply & Use for Oilseeds ............................................................. 10 
+U.S. Wheat Supply & Use .................................................................................... 11 
+U.S. Wheat Supply & Use by Class ..................................................................... 11 
+U.S. Feed Grain & Corn Supply & Use ................................................................ 12 
+U.S. Sorghum, Barley & Oats Supply & Use ........................................................ 13 
+U.S. Rice Supply & Use ....................................................................................... 14 
+U.S. Soybeans & Products Supply & Use ............................................................ 15 
+U.S. Sugar Supply & Use ..................................................................................... 16 
+Mexico Sugar Supply and Use ............................................................................. 16 
+U.S. Cotton Supply & Use .................................................................................... 17 
+World Wheat Supply & Use ................................................................................. 18 
+World Coarse Grains Supply & Use ..................................................................... 20 
+World Corn Supply & Use .................................................................................... 22 
+World Rice Supply & Use..................................................................................... 24 
+World Cotton Supply & Use ................................................................................. 26 
+World Soybean Supply & Use .............................................................................. 28 
+World Soybean Meal Supply & Use ..................................................................... 29 
+World Soybean Oil Supply & Use ........................................................................ 30 
+U.S. Quarterly Animal Product Production ........................................................... 31 
+U.S. Quarterly Prices for Animal Products ........................................................... 31 
+U.S. Meats Supply and Use ................................................................................. 32 
+U.S. Egg Supply & Use ........................................................................................ 33 
+U.S. Milk Supply and Use .................................................................................... 33 
+U.S. Dairy Prices ................................................................................................. 34 
+Reliability Tables ................................................................................................. 35 
+Related USDA Reports ........................................................................................ 38 
+Metric Conversion Factors ................................................................................... 38 
+Electronic Access and Subscriptions ....................................................................... 40
+
+Total Grains 4/ 2010/11  2197.05 2687.72 283.61 2229.86 457.87
+ 2011/12 (Est.)   2300.38 2758.25 303.91 2295.91 462.34
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 2372.05 2834.39 303.46 2356.46 477.93
+filler filler filler filler filler
+Wheat 2010/11  651.14 851.20 132.43 654.46 196.74
+ 2011/12 (Est.)   694.64 891.38 146.74 694.35 197.03
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 677.56 874.59 137.02 686.47 188.13
+filler filler filler filler filler
+Coarse Grains 5/ 2010/11  1096.61 1292.05 116.34 1129.62 162.43
+ 2011/12 (Est.)   1142.44 1304.86 123.09 1143.71 161.16
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 1228.04 1389.20 131.31 1204.27 184.92
+filler filler filler filler filler
+Rice, milled 2010/11  449.30 544.47 34.83 445.78 98.70
+ 2011/12 (Est.)   463.31 562.01 34.07 457.85 104.15
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 466.45 570.60 35.13 465.73 104.88
+filler filler filler filler filler
+
+Total Grains 4/ 2010/11  397.89 479.50 89.19 333.04 57.27
+ 2011/12 (Est.)   383.98 447.94 75.95 325.80 46.19
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 456.75 509.49 86.22 351.23 72.04
+filler filler filler filler filler
+Wheat 2010/11  60.06 89.25 35.08 30.71 23.47
+ 2011/12 (Est.)   54.41 81.15 27.90 32.35 20.90
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 61.11 85.28 31.30 33.97 20.01
+filler filler filler filler filler
+Coarse Grains 5/ 2010/11  330.24 380.89 50.63 297.97 32.29
+ 2011/12 (Est.)   323.70 358.76 44.97 289.58 24.21
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 389.82 416.60 52.09 313.35 51.17
+filler filler filler filler filler
+Rice, milled 2010/11  7.59 9.36 3.49 4.36 1.51
+ 2011/12 (Est.)   5.87 8.04 3.08 3.88 1.08
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 5.83 7.61 2.84 3.91 0.86
+filler filler filler filler filler
+
+1/ Aggregate of local marketing years.  2/ Based on export estimate.  See individual commodity tables for treatment of 
+export/import imbalances.  3/ Total use for the United States is equal to domestic consumption only (excludes exports).  4/ 
+ Wheat, coarse grains and milled rice.  5/ Corn, sorghum, barley, oats, rye, millet and mixed grains (for U.S. excludes 
+millet and mixed grains).
+
+Total Grains  4/ 2010/11  1,799.16 2,208.23 194.42 1,896.82 400.60
+ 2011/12 (Est.)   1,916.40 2,310.31 227.96 1,970.11 416.15
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 1,915.30 2,324.91 217.24 2,005.24 405.89
+filler filler filler filler filler
+Wheat 2010/11  591.08 761.95 97.36 623.75 173.28
+ 2011/12 (Est.)   640.22 810.24 118.84 662.01 176.13
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 616.46 789.32 105.73 652.50 168.11
+filler filler filler filler filler
+Coarse Grains  5/ 2010/11  766.38 911.16 65.72 831.65 130.14
+ 2011/12 (Est.)   818.74 946.10 78.12 854.13 136.95
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 838.22 972.60 79.22 890.92 133.76
+filler filler filler filler filler
+Rice, milled 2010/11  441.71 535.11 31.34 441.42 97.18
+ 2011/12 (Est.)   457.44 553.97 30.99 453.97 103.08
+filler filler filler filler filler
+ 2012/13 (Proj.)  Apr NA NA NA NA NA
+ 2012/13 (Proj.)  May 460.62 562.99 32.29 461.81 104.02
+filler filler filler filler filler 
+1/ Aggregate of local marketing years.  2/ Based on export estimate.  See individual commodity tables for treatment of 
+export/import imbalances.   3/ Total foreign is equal to world minus United States.   4/ Wheat, coarse grains and milled rice.  
+5/ Corn, sorghum, barley, oats, rye, millet and mixed grains.
+
+U.S. Wheat Supply and Use  1/
+
+U.S. Wheat by Class: Supply and Use
+
+Note: Totals may not add due to rounding.  1/ Marketing year beginning June 1.  2/ Marketing-year weighted average price 
+received by farmers.  3/ Includes imports.  * Planted acres reported in the March 30, 2012, "Prospective Plantings."  Harvested 
+acres and yield for other spring wheat and durum are projected using 10-year harvested-to-planted ratios by state and 1985-
+2011 yield trends by state (except Idaho durum).  Winter wheat harvested acres and yield reported in the May 10, 2012,"Crop 
+Production."                                                                                                                                                                                    
+                 ***********************************************************************                                           
+               Wheat-by-class projections for 2012/13 will first be published in the July 11, 2012, WASDE. 
+***********************************************************************
+
+World Wheat Supply and Use  1/
+
+World Wheat Supply and Use  1/  (Cont'd.)
+
+Note: Tables on pages 35-37 present a record of the May projection and the  final Estimate. Using world wheat production as an example, the "root 
+mean square error" means that chances are 2 out of 3 that the current forecast will  not be above or below the final estimate by more than 3.2 percent.  
+Chances are 9 out of 10 (90% confidence level) that the difference will not exceed 5.4 percent.  The average difference between the May projection and 
+the final estimate is 15.8 million tons, ranging from 1.7 million to 35.0 million tons.  The May projection has been below the estimate 18 times and 
+above 13 times.   
+Reliability of May Projections 1/
+   Differences between forecast and final estimate
+  90 percent               Years
+Commodity and 
+Region 
+Root mean 
+square error
+confidence
+interval Average Smalles t Largest
+Below
+Final
+Above
+Final
+WHEAT
+
+Billion Pounds   
+Milk 1.8 3.1 2.6 0.2 6.7 10  8
+1/ See pages 35 and 36 for record of reliability for U.S. wheat, rice, soybeans, and cotton. Marketing years 1981/82 
+through 2011/12 for grains, soybeans, and cotton. Final for grains, soybeans, and cotton is defined as the first November 
+estimate following the marketing year for 1981/82 through 2010/11, and for 2011/12 last month's estimate. Calendar years 
+1995 through 2012 for meats, eggs, and milk. Final for animal products is defined as latest annual production estimate 
+published by NASS for 1995-2011, and for 2012 last month's estimate.
+
+1 Hectare = 2.4710 Acres  
+1 Kilogram = 2.20462 Pounds  
+Metric-Ton Equivalent = Domestic Unit Factor 
+Wheat & Soybeans 
+Rice 
+Corn, Sorghum, & Rye 
+Barley 
+Oats 
+Sugar 
+Cotton 
+bushels 
+cwt 
+bushels 
+bushels 
+bushels 
+short tons 
+480-lb bales 
+.027216 
+.045359 
+.025401 
+.021772 
+.014515 
+.907185 
+.217720

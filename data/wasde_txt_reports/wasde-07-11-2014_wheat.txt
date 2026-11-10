@@ -1,0 +1,227 @@
+NOTE:  This report adopts U.S. area, yield, and production forecasts for winter wheat, durum, other spring wheat, 
+barley, and oats released today by the National Agricultural Statistics Service (NASS).  For rice, corn, sorghum, 
+soybeans, and cotton, area estimates reflect the June 30 NASS Acreage report, and methods used to project 
+production are noted on each table.  The first survey-based 2014 production forecasts for those crops will be 
+reported by NASS on August 12.
+
+WHEAT:  Projected U.S. wheat supplies for 2014/15 are raised this month with a sharp increase in 
+forecast Hard Red Spring (HRS) wheat more than offsetting a decrease for Hard Red Winter (HRW).  
+The HRW crop was damaged by drought and April freezes in the Southern and Central plains; 
+however, the HRS crop in the Northern Plains has benefitted from abundant soil moisture and cooler 
+than normal early summer temperatures.  Yields for Durum and other spring wheat are forecast to be 
+above average.  Feed and residual use for all wheat in 2014/15 is lowered 15 million bushels to 145 
+million as tight supplies of HRW wheat and relatively more attractive prices for feed grains reduce 
+expected feed and residual use.  All wheat exports for 2014/15 are lowered 25 million bushels reflecting 
+expectations of large world supplies and strong competition in export markets.  Ending stocks are 
+projected 86 million bushels higher.  The projected season-average farm price range is lowered 40 
+cents at the midpoint to $6.00 to $7.20 per bushel.
+
+Global wheat supplies for 2014/15 are raised 1.8 million tons with increased production more than 
+offsetting lower beginning stocks.  World production is raised 3.6 million tons to 705.2 million.  This is 
+down 9.0 million tons from last year but still the second largest production on record.  The biggest 
+foreign increases are 1.6 million tons for the EU and 1.0 million tons for Ukraine both due to continued 
+favorable weather.  Production is raised 0.5 million tons for Australia based on the latest government 
+indications for area.  Production is also raised 0.3 million tons each for Brazil and Serbia.  Partly 
+offsetting this month’s production increases is a reduction of 1.0 million tons for Kazakhstan due to 
+June dryness and a decline of 0.5 million tons for Canada based on the latest area indications from 
+Statistics Canada.
+
+Global wheat consumption is raised 0.9 million tons with increased wheat feeding for the EU and higher 
+food use for several countries.  EU wheat feeding is raised 1.0 million tons as wheat quality is expected 
+to suffer in the lower Danube region because of excessive rainfall in recent weeks.  Feeding reductions 
+for Kazakhstan, Egypt, and Thailand are partly offsetting.  Food use is raised for Indonesia, Sudan, 
+Morocco, and Bangladesh but lowered for Egypt.  Global wheat trade for 2014/15 is lowered with 
+exports reduced 1.0 million tons for Kazakhstan and 0.7 million for the United States.  Partly offsetting 
+increases in exports are made for Australia, Ukraine, and Serbia with improved crop prospects.  EU 
+imports are lowered 0.5 million tons due in part to larger expected supplies of feed quality wheat in 
+Bulgaria and Romania.  Imports are also lowered for Egypt and Mexico, but raised for Sudan, 
+Indonesia, and Nigeria.  With supplies rising faster than use, global ending stocks are raised 0.9 million 
+tons and remain at a 3-year high.
+
+Wheat:  Jerry Norton, ICEC Chair, WAOB, email:  jnorton@oce.usda.gov 
+Gary Vocke, ERS; Teresa McKeivier, FAS; Tom Tice, FSA.
+
+Page 
+Highlights ............................................................................................................... 1 
+Interagency Commodity Estimates Committees ..................................................... 6 
+World & U.S. Supply & Use for Grains ................................................................... 8 
+World & U.S. Supply & Use for Cotton ................................................................... 9 
+World & U.S. Supply & Use for Oilseeds ............................................................. 10 
+U.S. Wheat Supply & Use .................................................................................... 11 
+U.S. Wheat Supply & Use by Class ..................................................................... 11 
+U.S. Feed Grain & Corn Supply & Use ................................................................ 12 
+U.S. Sorghum, Barley & Oats Supply & Use ........................................................ 13 
+U.S. Rice Supply & Use ....................................................................................... 14 
+U.S. Soybeans & Products Supply & Use ............................................................ 15 
+U.S. Sugar Supply & Use ..................................................................................... 16 
+Mexico Sugar Supply and Use ............................................................................. 16 
+U.S. Cotton Supply & Use .................................................................................... 17 
+World Wheat Supply & Use ................................................................................. 18 
+World Coarse Grains Supply & Use ..................................................................... 20 
+World Corn Supply & Use .................................................................................... 22 
+World Rice Supply & Use..................................................................................... 24 
+World Cotton Supply & Use ................................................................................. 26 
+World Soybean Supply & Use .............................................................................. 28 
+World Soybean Meal Supply & Use ..................................................................... 29 
+World Soybean Oil Supply & Use ........................................................................ 30 
+U.S. Quarterly Animal Product Production ........................................................... 31 
+U.S. Quarterly Prices for Animal Products ........................................................... 31 
+U.S. Meats Supply and Use ................................................................................. 32 
+U.S. Egg Supply & Use ........................................................................................ 33 
+U.S. Milk Supply and Use .................................................................................... 33 
+U.S. Dairy Prices ................................................................................................. 34 
+Reliability Tables ................................................................................................. 35 
+Related USDA Reports ........................................................................................ 38 
+Metric Conversion Factors ................................................................................... 38 
+Electronic Access and Subscriptions ....................................................................... 40
+
+Total Grains 4/ 2012/13  2267.72 2740.34 299.38 2285.44 454.90
+ 2013/14 (Est.)   2466.71 2921.61 362.54 2416.67 504.94
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 2441.04 2943.80 339.65 2431.95 511.85
+ 2014/15 (Proj.)  Jul 2445.77 2950.71 339.01 2433.20 517.51
+filler filler filler filler filler
+Wheat 2012/13  657.70 854.92 137.18 679.31 175.61
+ 2013/14 (Est.)   714.20 889.81 164.31 705.52 184.29
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 701.62 887.67 152.08 699.06 188.61
+ 2014/15 (Proj.)  Jul 705.17 889.46 151.61 699.92 189.54
+filler filler filler filler filler
+Coarse Grains 5/ 2012/13  1138.37 1307.00 122.91 1137.60 169.39
+ 2013/14 (Est.)   1275.05 1444.45 157.54 1235.31 209.13
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 1258.70 1463.28 146.17 1250.71 212.57
+ 2014/15 (Proj.)  Jul 1261.17 1470.30 145.84 1250.87 219.43
+filler filler filler filler filler
+Rice, milled 2012/13  471.66 578.42 39.29 468.52 109.90
+ 2013/14 (Est.)   477.46 587.36 40.70 475.84 111.52
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 480.72 592.85 41.40 482.18 110.67
+ 2014/15 (Proj.)  Jul 479.43 590.95 41.56 482.40 108.55
+filler filler filler filler filler
+
+Total Grains 4/ 2012/13  354.01 414.06 51.55 318.29 44.23
+ 2013/14 (Est.)   433.51 486.25 88.60 345.71 51.94
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 428.25 485.56 75.94 345.95 63.67
+ 2014/15 (Proj.)  Jul 429.30 489.51 75.92 345.22 68.37
+filler filler filler filler filler
+Wheat 2012/13  61.67 85.22 27.42 38.27 19.54
+ 2013/14 (Est.)   57.96 82.08 32.16 33.86 16.05
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 52.85 73.35 25.17 32.55 15.62
+ 2014/15 (Proj.)  Jul 54.21 74.61 24.49 32.14 17.97
+filler filler filler filler filler
+Coarse Grains 5/ 2012/13  286.01 320.53 20.73 276.27 23.53
+ 2013/14 (Est.)   369.43 396.17 53.43 307.91 34.83
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 368.59 403.66 47.50 309.31 46.85
+ 2014/15 (Proj.)  Jul 367.86 405.95 48.01 308.83 49.12
+filler filler filler filler filler
+Rice, milled 2012/13  6.34 8.31 3.40 3.75 1.16
+ 2013/14 (Est.)   6.12 8.00 3.01 3.93 1.06
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 6.81 8.55 3.26 4.10 1.19
+ 2014/15 (Proj.)  Jul 7.23 8.95 3.42 4.26 1.27
+filler filler filler filler filler
+
+1/ Aggregate of local marketing years.  2/ Based on export estimate.  See individual commodity tables for treatment of 
+export/import imbalances.  3/ Total use for the United States is equal to domestic consumption only (excludes exports).     
+ 4/ Wheat, coarse grains, and milled rice.  5/ Corn, sorghum, barley, oats, rye,  millet, and mixed grains (for U.S. excludes 
+millet and mixed grains).
+
+Total Grains  4/ 2012/13  1,913.71 2,326.27 247.84 1,967.15 410.67
+ 2013/14 (Est.)   2,033.21 2,435.36 273.94 2,070.96 453.00
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 2,012.79 2,458.24 263.72 2,086.00 448.18
+ 2014/15 (Proj.)  Jul 2,016.48 2,461.20 263.09 2,087.97 449.15
+filler filler filler filler filler
+Wheat 2012/13  596.03 769.70 109.76 641.05 156.07
+ 2013/14 (Est.)   656.24 807.73 132.14 671.65 168.24
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 648.77 814.32 126.91 666.51 172.99
+ 2014/15 (Proj.)  Jul 650.97 814.85 127.12 667.78 171.57
+filler filler filler filler filler
+Coarse Grains  5/ 2012/13  852.36 986.46 102.18 861.33 145.86
+ 2013/14 (Est.)   905.62 1,048.28 104.11 927.40 174.30
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 890.11 1,059.62 98.67 941.40 165.72
+ 2014/15 (Proj.)  Jul 893.30 1,064.35 97.84 942.05 170.31
+filler filler filler filler filler
+Rice, milled 2012/13  465.32 570.11 35.89 464.77 108.74
+ 2013/14 (Est.)   471.34 579.35 37.69 471.90 110.46
+filler filler filler filler filler
+ 2014/15 (Proj.)  Jun 473.91 584.30 38.14 478.09 109.47
+ 2014/15 (Proj.)  Jul 472.21 582.00 38.14 478.15 107.27
+filler filler filler filler filler 
+1/ Aggregate of local marketing years.  2/ Based on export estimate.  See individual commodity tables for treatment of 
+export/import imbalances.  3/ Total foreign is equal to world minus United States.  4/ Wheat, coarse grains, and milled rice.    
+5/ Corn, sorghum, barley, oats, rye, millet, and mixed grains.
+
+U.S. Wheat Supply and Use  1/
+
+U.S. Wheat by Class: Supply and Use
+
+Note:  Totals may not add due to rounding.  1/ Marketing year beginning June 1.  2/ Marketing-year weighted average price 
+received by farmers.  3/ Includes imports.  * For June, planted acres reported in the March 31, 2014, "Prospective Plantings."  
+Winter wheat area harvested and yield reported in the June 11, 2014, "Crop Production."  Area harvested and yield for other 
+spring wheat and durum projected using 10-year harvested-to-planted ratios by state and 1985-2013 yield trends by state 
+(except for Arizona, California, and Idaho durum).  For July, area planted, area harvested, yield, and production as reported in 
+the July 11, 2014, "Crop Production."
+
+World Wheat Supply and Use  1/
+
+World Wheat Supply and Use  1/  (Cont'd.)
+
+Note: Tables on pages 35-37 present a record of the July projection and the final Estimate. Using world wheat production as an example, the "root mean 
+square error" means that chances are 2 out of 3 that the current forecast will not be above or below the final estimate by more than 2.9 percent.  Chances 
+are 9 out of 10 (90% confidence level) that the difference will not exceed 4.9 percent. The average difference between the July projection and the final 
+estimate is 14.3 million tons, ranging from 1.0 million to 34.6 million tons. The July projection has been below the estimate 19 times and above 14 
+times.   
+Reliability of July Projections 1/
+   Differences between forecast and final estimate
+  90 percent               Years
+Commodity and 
+Region 
+Root mean 
+square error
+confidence
+interval Average Smalles t Largest
+Below
+Final
+Above
+Final
+WHEAT
+
+Billion Pounds   
+Milk 1.7 2.9 2.3 0.1 7.0 13  7
+1/  See pages 35 and 36 for record of reliability for U.S. wheat, rice, soybeans, and cotton.  Marketing years 1981/82 
+through 2013/14 for grains, soybeans, and cotton.  Final for grains, soybeans, and cotton is defined as the first November 
+estimate following the marketing year for 1981/82 through 2012/13, and for 2013/14 last month’s estimate.  Calendar 
+years 1982 through 2013 for meats, eggs, and milk.  Final for animal products is defined as the latest annual production 
+estimate published by NASS for 1982-2013.
+
+1 Hectare = 2.4710 Acres  
+1 Kilogram = 2.20462 Pounds  
+Metric-Ton Equivalent = Domestic Unit Factor 
+Wheat & Soybeans 
+Rice 
+Corn, Sorghum, & Rye 
+Barley 
+Oats 
+Sugar 
+Cotton 
+bushels 
+cwt 
+bushels 
+bushels 
+bushels 
+short tons 
+480-lb bales 
+.027216 
+.045359 
+.025401 
+.021772 
+.014515 
+.907185 
+.217720
