@@ -1,0 +1,383 @@
+date,file,date_source,partial_errata,narrative_words,bull_words,bear_words,wasde_sentiment
+2013-08-12,ORIGwasde-08-12-2013_wheat.txt,en-tête PDF,False,595,7,13,-0.3
+2013-07-11,R1wasde-07-11-2013_wheat.txt,en-tête PDF,False,569,6,15,-0.42857142857142855
+2003-01-10,wasde-01-10-2003_wheat.txt,en-tête PDF,False,225,5,5,0.0
+2014-01-10,wasde-01-10-2014_wheat.txt,en-tête PDF,False,503,6,6,0.0
+2001-01-11,wasde-01-11-2001_wheat.txt,en-tête PDF,False,102,1,1,0.0
+2002-01-11,wasde-01-11-2002_wheat.txt,en-tête PDF,False,165,5,5,0.0
+2008-01-11,wasde-01-11-2008_wheat.txt,en-tête PDF,False,290,7,8,-0.06666666666666667
+2013-01-11,wasde-01-11-2013_wheat.txt,en-tête PDF,False,466,8,5,0.23076923076923078
+1993-01-12,wasde-01-12-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-01-12,wasde-01-12-1994_wheat.txt,nom de fichier,False,0,0,0,
+1999-01-12,wasde-01-12-1999_wheat.txt,en-tête PDF,False,159,5,3,0.25
+2000-01-12,wasde-01-12-2000_wheat.txt,en-tête PDF,False,140,3,3,0.0
+2004-01-12,wasde-01-12-2004_wheat.txt,en-tête PDF,False,208,1,9,-0.8
+2005-01-12,wasde-01-12-2005_wheat.txt,en-tête PDF,False,261,2,6,-0.5
+2006-01-12,wasde-01-12-2006_wheat.txt,en-tête PDF,False,172,0,5,-1.0
+2007-01-12,wasde-01-12-2007_wheat.txt,en-tête PDF,False,172,2,6,-0.5
+2009-01-12,wasde-01-12-2009_wheat.txt,en-tête PDF,False,373,11,6,0.29411764705882354
+2010-01-12,wasde-01-12-2010_wheat.txt,en-tête PDF,False,471,4,5,-0.1111111111111111
+2011-01-12,wasde-01-12-2011_wheat.txt,en-tête PDF,False,552,13,9,0.18181818181818182
+2012-01-12,wasde-01-12-2012_wheat.txt,en-tête PDF,False,388,5,3,0.25
+2015-01-12,wasde-01-12-2015_wheat.txt,en-tête PDF,False,495,0,16,-1.0
+2016-01-12,wasde-01-12-2016_wheat.txt,en-tête PDF,False,394,5,6,-0.09090909090909091
+2017-01-12,wasde-01-12-2017_wheat.txt,nom de fichier,False,694,5,5,0.0
+2018-01-12,wasde-01-12-2018_wheat.txt,en-tête PDF,False,432,2,11,-0.6923076923076923
+1992-01-13,wasde-01-13-1992_wheat.txt,nom de fichier,False,0,0,0,
+2001-02-08,wasde-02-08-2001_wheat.txt,en-tête PDF,False,118,4,3,0.14285714285714285
+2002-02-08,wasde-02-08-2002_wheat.txt,en-tête PDF,False,169,0,3,-1.0
+2008-02-08,wasde-02-08-2008_wheat.txt,en-tête PDF,False,366,4,14,-0.5555555555555556
+2013-02-08,wasde-02-08-2013_wheat.txt,en-tête PDF,False,487,5,7,-0.16666666666666666
+2018-02-08,wasde-02-08-2018_wheat.txt,en-tête PDF,False,473,5,14,-0.47368421052631576
+2005-02-09,wasde-02-09-2005_wheat.txt,en-tête PDF,False,253,3,6,-0.3333333333333333
+2006-02-09,wasde-02-09-2006_wheat.txt,en-tête PDF,False,158,3,4,-0.14285714285714285
+2007-02-09,wasde-02-09-2007_wheat.txt,en-tête PDF,False,199,2,4,-0.3333333333333333
+2010-02-09,wasde-02-09-2010_wheat.txt,en-tête PDF,False,456,0,14,-1.0
+2011-02-09,wasde-02-09-2011_wheat.txt,en-tête PDF,False,432,8,5,0.23076923076923078
+2012-02-09,wasde-02-09-2012_wheat.txt,en-tête PDF,False,504,4,5,-0.1111111111111111
+2016-02-09,wasde-02-09-2016_wheat.txt,en-tête PDF,False,453,1,13,-0.8571428571428571
+2017-02-09,wasde-02-09-2017_wheat.txt,nom de fichier,False,473,0,1,-1.0
+1993-02-10,wasde-02-10-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-02-10,wasde-02-10-1994_wheat.txt,nom de fichier,False,0,0,0,
+1999-02-10,wasde-02-10-1999_wheat.txt,en-tête PDF,False,194,4,6,-0.2
+2004-02-10,wasde-02-10-2004_wheat.txt,en-tête PDF,False,183,1,5,-0.6666666666666666
+2009-02-10,wasde-02-10-2009_wheat.txt,en-tête PDF,False,533,9,6,0.2
+2014-02-10,wasde-02-10-2014_wheat.txt,en-tête PDF,False,539,6,9,-0.2
+2015-02-10,wasde-02-10-2015_wheat.txt,en-tête PDF,False,513,1,11,-0.8333333333333334
+1992-02-11,wasde-02-11-1992_wheat.txt,nom de fichier,False,0,0,0,
+1998-02-11,wasde-02-11-1998_wheat.txt,en-tête PDF,False,79,0,3,-1.0
+2000-02-11,wasde-02-11-2000_wheat.txt,en-tête PDF,False,135,2,2,0.0
+2003-02-11,wasde-02-11-2003_wheat.txt,en-tête PDF,False,148,5,1,0.6666666666666666
+2001-03-08,wasde-03-08-2001_wheat.txt,en-tête PDF,False,121,0,4,-1.0
+2002-03-08,wasde-03-08-2002_wheat.txt,en-tête PDF,False,135,3,4,-0.14285714285714285
+2013-03-08,wasde-03-08-2013_wheat.txt,en-tête PDF,False,351,2,8,-0.6
+2018-03-08,wasde-03-08-2018_wheat.txt,en-tête PDF,False,389,4,8,-0.3333333333333333
+2007-03-09,wasde-03-09-2007_wheat.txt,en-tête PDF,False,182,4,3,0.14285714285714285
+2012-03-09,wasde-03-09-2012_wheat.txt,en-tête PDF,False,556,4,16,-0.6
+2016-03-09,wasde-03-09-2016_wheat.txt,en-tête PDF,False,397,2,4,-0.3333333333333333
+2017-03-09,wasde-03-09-2017_wheat.txt,en-tête PDF,False,175,3,7,-0.4
+1993-03-10,wasde-03-10-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-03-10,wasde-03-10-1994_wheat.txt,nom de fichier,False,0,0,0,
+2000-03-10,wasde-03-10-2000_wheat.txt,en-tête PDF,False,133,1,4,-0.6
+2004-03-10,wasde-03-10-2004_wheat.txt,en-tête PDF,False,187,3,1,0.5
+2005-03-10,wasde-03-10-2005_wheat.txt,en-tête PDF,False,296,3,6,-0.3333333333333333
+2010-03-10,wasde-03-10-2010_wheat.txt,en-tête PDF,False,514,2,8,-0.6
+2011-03-10,wasde-03-10-2011_wheat.txt,en-tête PDF,False,492,8,10,-0.1111111111111111
+2014-03-10,wasde-03-10-2014_wheat.txt,en-tête PDF,False,488,7,6,0.07692307692307693
+2015-03-10,wasde-03-10-2015_wheat.txt,en-tête PDF,False,421,4,4,0.0
+1992-03-11,wasde-03-11-1992_wheat.txt,nom de fichier,False,0,0,0,
+1999-03-11,wasde-03-11-1999_wheat.txt,en-tête PDF,False,88,0,3,-1.0
+2003-03-11,wasde-03-11-2003_wheat.txt,en-tête PDF,False,166,4,5,-0.1111111111111111
+2008-03-11,wasde-03-11-2008_wheat.txt,en-tête PDF,False,309,2,9,-0.6363636363636364
+2009-03-11,wasde-03-11-2009_wheat.txt,en-tête PDF,False,473,10,11,-0.047619047619047616
+1998-03-12,wasde-03-12-1998_wheat.txt,en-tête PDF,False,108,0,1,-1.0
+2006-03-10,wasde-03-13-2006_revision_wheat.txt,en-tête PDF,True,170,1,5,-0.6666666666666666
+2000-04-11,wasde-04-01-2000_wheat.txt,en-tête PDF,False,189,4,3,0.14285714285714285
+2004-04-08,wasde-04-08-2004_wheat.txt,en-tête PDF,False,259,2,4,-0.3333333333333333
+2005-04-08,wasde-04-08-2005_wheat.txt,en-tête PDF,False,262,1,6,-0.7142857142857143
+2011-04-08,wasde-04-08-2011_wheat.txt,en-tête PDF,False,575,7,13,-0.3
+1998-04-09,wasde-04-09-1998_wheat.txt,nom de fichier,False,206,0,0,0.0
+1999-04-09,wasde-04-09-1999_wheat.txt,en-tête PDF,False,139,0,5,-1.0
+2008-04-09,wasde-04-09-2008_wheat.txt,en-tête PDF,False,376,5,11,-0.375
+2009-04-09,wasde-04-09-2009_wheat.txt,en-tête PDF,False,545,6,21,-0.5555555555555556
+2010-04-09,wasde-04-09-2010_wheat.txt,en-tête PDF,False,492,4,6,-0.2
+2014-04-09,wasde-04-09-2014_wheat.txt,en-tête PDF,False,477,4,5,-0.1111111111111111
+2015-04-09,wasde-04-09-2015_wheat.txt,en-tête PDF,False,472,5,9,-0.2857142857142857
+1992-04-10,wasde-04-10-1992_wheat.txt,nom de fichier,False,0,0,0,
+2001-04-10,wasde-04-10-2001_wheat.txt,en-tête PDF,False,128,3,3,0.0
+2002-04-10,wasde-04-10-2002_wheat.txt,en-tête PDF,False,236,5,3,0.25
+2003-04-10,wasde-04-10-2003_wheat.txt,en-tête PDF,False,140,1,3,-0.5
+2006-04-10,wasde-04-10-2006_wheat.txt,en-tête PDF,False,232,1,5,-0.6666666666666666
+2007-04-10,wasde-04-10-2007_wheat.txt,en-tête PDF,False,209,0,7,-1.0
+2012-04-10,wasde-04-10-2012_wheat.txt,en-tête PDF,False,671,4,17,-0.6190476190476191
+2013-04-10,wasde-04-10-2013_wheat.txt,en-tête PDF,False,529,9,9,0.0
+2018-04-10,wasde-04-10-2018_wheat.txt,en-tête PDF,False,357,2,5,-0.42857142857142855
+2017-04-11,wasde-04-11-2017_wheat.txt,en-tête PDF,False,374,3,4,-0.14285714285714285
+1993-04-12,wasde-04-12-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-04-12,wasde-04-12-1994_wheat.txt,nom de fichier,False,0,0,0,
+2016-04-12,wasde-04-12-2016_wheat.txt,en-tête PDF,False,509,5,10,-0.3333333333333333
+2008-05-05,wasde-05-05-2008__Announcement_wheat.txt,en-tête PDF,True,0,0,0,
+2001-05-10,wasde-05-09-2001_coursegrains-revision_wheat.txt,en-tête PDF,True,0,0,0,
+2008-05-09,wasde-05-09-2008_wheat.txt,en-tête PDF,False,324,4,12,-0.5
+2014-05-09,wasde-05-09-2014_wheat.txt,en-tête PDF,False,516,19,11,0.26666666666666666
+1994-05-10,wasde-05-10-1994_wheat.txt,nom de fichier,False,0,0,0,
+2001-05-10,wasde-05-10-2001_wheat-revision_wheat.txt,en-tête PDF,True,0,0,0,
+2002-05-10,wasde-05-10-2002_broilers_revision_wheat.txt,en-tête PDF,True,0,0,0,
+2012-05-10,wasde-05-10-2012_wheat.txt,en-tête PDF,False,483,11,18,-0.2413793103448276
+2013-05-10,wasde-05-10-2013_wheat.txt,en-tête PDF,False,487,12,11,0.043478260869565216
+2016-05-10,wasde-05-10-2016_wheat.txt,en-tête PDF,False,441,4,11,-0.4666666666666667
+2017-05-10,wasde-05-10-2017_wheat.txt,en-tête PDF,False,398,9,10,-0.05263157894736842
+2018-05-10,wasde-05-10-2018_wheat.txt,en-tête PDF,False,355,5,10,-0.3333333333333333
+1992-05-11,wasde-05-11-1992_wheat.txt,nom de fichier,False,0,0,0,
+1993-05-11,wasde-05-11-1993_wheat.txt,nom de fichier,False,0,0,0,
+2007-05-11,wasde-05-11-2007_wheat.txt,en-tête PDF,False,390,10,10,0.0
+2010-05-11,wasde-05-11-2010_wheat.txt,en-tête PDF,False,495,6,16,-0.45454545454545453
+2011-05-11,wasde-05-11-2011_wheat.txt,en-tête PDF,False,412,10,17,-0.25925925925925924
+1998-05-12,wasde-05-12-1998_wheat.txt,nom de fichier,False,285,0,0,0.0
+1999-05-12,wasde-05-12-1999_wheat.txt,en-tête PDF,False,329,8,7,0.06666666666666667
+2000-05-12,wasde-05-12-2000_wheat.txt,en-tête PDF,False,261,11,6,0.29411764705882354
+2003-05-12,wasde-05-12-2003_wheat.txt,en-tête PDF,False,420,8,10,-0.1111111111111111
+2004-05-12,wasde-05-12-2004_wheat.txt,en-tête PDF,False,361,10,7,0.17647058823529413
+2005-05-12,wasde-05-12-2005_wheat.txt,en-tête PDF,False,260,7,8,-0.06666666666666667
+2006-05-12,wasde-05-12-2006_wheat.txt,en-tête PDF,False,183,7,2,0.5555555555555556
+2009-05-12,wasde-05-12-2009_wheat.txt,en-tête PDF,False,672,21,16,0.13513513513513514
+2015-05-12,wasde-05-12-2015_wheat.txt,en-tête PDF,False,493,6,15,-0.42857142857142855
+1994-06-09,wasde-06-09-1994_wheat.txt,nom de fichier,False,0,0,0,
+2000-06-09,wasde-06-09-2000_wheat.txt,en-tête PDF,False,204,4,4,0.0
+2006-06-09,wasde-06-09-2006_revision_wheat.txt,en-tête PDF,True,117,2,1,0.3333333333333333
+2011-06-09,wasde-06-09-2011_wheat.txt,en-tête PDF,False,540,9,21,-0.4
+2017-06-09,wasde-06-09-2017_wheat.txt,en-tête PDF,False,384,3,10,-0.5384615384615384
+1992-06-10,wasde-06-10-1992_wheat.txt,nom de fichier,False,0,0,0,
+1993-06-10,wasde-06-10-1993_wheat.txt,nom de fichier,False,0,0,0,
+2004-06-10,wasde-06-10-2004_wheat.txt,en-tête PDF,False,268,3,6,-0.3333333333333333
+2005-06-10,wasde-06-10-2005_wheat.txt,en-tête PDF,False,197,3,6,-0.3333333333333333
+2008-06-10,wasde-06-10-2008_wheat.txt,en-tête PDF,False,310,2,16,-0.7777777777777778
+2009-06-10,wasde-06-10-2009_wheat.txt,en-tête PDF,False,494,12,10,0.09090909090909091
+2010-06-10,wasde-06-10-2010_wheat.txt,en-tête PDF,False,480,11,9,0.1
+2015-06-10,wasde-06-10-2015_wheat.txt,en-tête PDF,False,477,4,12,-0.5
+2016-06-10,wasde-06-10-2016_wheat.txt,en-tête PDF,False,500,0,19,-1.0
+1999-06-11,wasde-06-11-1999_wheat.txt,en-tête PDF,False,157,4,6,-0.2
+2003-06-11,wasde-06-11-2003_wheat.txt,en-tête PDF,False,246,6,10,-0.25
+2007-06-11,wasde-06-11-2007_wheat.txt,en-tête PDF,False,283,9,8,0.058823529411764705
+2014-06-11,wasde-06-11-2014_wheat.txt,en-tête PDF,False,511,5,14,-0.47368421052631576
+1998-06-12,wasde-06-12-1998_wheat.txt,en-tête PDF,False,124,3,5,-0.25
+2001-06-12,wasde-06-12-2001_wheat.txt,en-tête PDF,False,224,4,6,-0.2
+2002-06-12,wasde-06-12-2002_wheat.txt,en-tête PDF,False,220,7,5,0.16666666666666666
+2012-06-12,wasde-06-12-2012_wheat.txt,en-tête PDF,False,499,18,9,0.3333333333333333
+2013-06-12,wasde-06-12-2013_wheat.txt,en-tête PDF,False,439,5,9,-0.2857142857142857
+2018-06-12,wasde-06-12-2018_wheat.txt,en-tête PDF,False,436,8,7,0.06666666666666667
+1992-07-09,wasde-07-09-1992_wheat.txt,nom de fichier,False,0,0,0,
+2010-07-09,wasde-07-09-2010_wheat.txt,en-tête PDF,False,550,14,13,0.037037037037037035
+1998-07-10,wasde-07-10-1998_wheat.txt,en-tête PDF,False,173,3,5,-0.25
+2009-07-10,wasde-07-10-2009_wheat.txt,en-tête PDF,False,496,9,13,-0.18181818181818182
+2015-07-10,wasde-07-10-2015_wheat.txt,en-tête PDF,False,498,3,12,-0.6
+2001-07-11,wasde-07-11-2001_wheat.txt,en-tête PDF,False,226,8,7,0.06666666666666667
+2002-07-11,wasde-07-11-2002_wheat.txt,en-tête PDF,False,297,14,4,0.5555555555555556
+2003-07-11,wasde-07-11-2003_wheat.txt,en-tête PDF,False,287,6,10,-0.25
+2008-07-11,wasde-07-11-2008_wheat.txt,en-tête PDF,False,413,5,18,-0.5652173913043478
+2012-07-11,wasde-07-11-2012_wheat.txt,en-tête PDF,False,541,15,9,0.25
+2014-07-11,wasde-07-11-2014_wheat.txt,en-tête PDF,False,545,6,11,-0.29411764705882354
+1993-07-12,wasde-07-12-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-07-12,wasde-07-12-1994_wheat.txt,nom de fichier,False,0,0,0,
+1999-07-12,wasde-07-12-1999_wheat.txt,en-tête PDF,False,192,3,7,-0.4
+2000-07-12,wasde-07-12-2000_wheat.txt,en-tête PDF,False,186,5,5,0.0
+2004-07-12,wasde-07-12-2004_wheat.txt,en-tête PDF,False,342,4,13,-0.5294117647058824
+2005-07-12,wasde-07-12-2005_wheat.txt,en-tête PDF,False,267,1,7,-0.75
+2006-06-09,wasde-07-12-2006_China_rice_revision_wheat.txt,en-tête PDF,True,0,0,0,
+2007-07-12,wasde-07-12-2007_wheat.txt,en-tête PDF,False,404,7,14,-0.3333333333333333
+2011-07-12,wasde-07-12-2011_wheat.txt,en-tête PDF,False,597,10,19,-0.3103448275862069
+2016-07-12,wasde-07-12-2016_wheat.txt,en-tête PDF,False,423,2,13,-0.7333333333333333
+2017-07-12,wasde-07-12-2017_wheat.txt,en-tête PDF,False,408,5,7,-0.16666666666666666
+2018-07-12,wasde-07-12-2018_wheat.txt,en-tête PDF,False,425,7,6,0.07692307692307693
+2019-02-08,wasde-08-02-2019_wheat.txt,en-tête PDF,False,316,3,1,0.5
+2019-03-08,wasde-08-03-2019_wheat.txt,en-tête PDF,False,313,7,9,-0.125
+2001-08-10,wasde-08-10-2001_wheat.txt,en-tête PDF,False,193,7,1,0.75
+2007-08-10,wasde-08-10-2007_wheat.txt,en-tête PDF,False,427,12,11,0.043478260869565216
+2012-08-10,wasde-08-10-2012_wheat.txt,en-tête PDF,False,631,12,11,0.043478260869565216
+2017-08-10,wasde-08-10-2017_wheat.txt,en-tête PDF,False,380,7,11,-0.2222222222222222
+2018-08-10,wasde-08-10-2018_wheat.txt,en-tête PDF,False,449,12,7,0.2631578947368421
+1993-08-11,wasde-08-11-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-08-11,wasde-08-11-1994_wheat.txt,nom de fichier,False,0,0,0,
+2000-08-11,wasde-08-11-2000_wheat.txt,en-tête PDF,False,136,1,4,-0.6
+2006-08-11,wasde-08-11-2006_wheat.txt,en-tête PDF,False,137,6,5,0.09090909090909091
+2011-08-11,wasde-08-11-2011_wheat.txt,en-tête PDF,False,688,13,24,-0.2972972972972973
+2018-11-08,wasde-08-11-2018_wheat.txt,en-tête PDF,False,324,0,3,-1.0
+2019-11-08,wasde-08-11-2019_wheat.txt,en-tête PDF,False,446,9,7,0.125
+2024-11-08,wasde-08-11-2024_wheat.txt,en-tête PDF,False,227,4,10,-0.42857142857142855
+1992-08-12,wasde-08-12-1992_wheat.txt,nom de fichier,False,0,0,0,
+1998-08-12,wasde-08-12-1998_wheat.txt,en-tête PDF,False,224,1,2,-0.3333333333333333
+1999-08-12,wasde-08-12-1999_wheat.txt,en-tête PDF,False,148,1,2,-0.3333333333333333
+2002-08-12,wasde-08-12-2002_wheat.txt,en-tête PDF,False,217,8,3,0.45454545454545453
+2003-08-12,wasde-08-12-2003_wheat.txt,en-tête PDF,False,277,10,5,0.3333333333333333
+2004-08-12,wasde-08-12-2004_wheat.txt,en-tête PDF,False,293,2,8,-0.6
+2005-08-12,wasde-08-12-2005_wheat.txt,en-tête PDF,False,220,2,3,-0.2
+2008-08-12,wasde-08-12-2008_wheat.txt,en-tête PDF,False,416,6,16,-0.45454545454545453
+2009-08-12,wasde-08-12-2009_wheat.txt,en-tête PDF,False,627,10,17,-0.25925925925925924
+2010-08-12,wasde-08-12-2010_wheat.txt,en-tête PDF,False,706,14,22,-0.2222222222222222
+2014-08-12,wasde-08-12-2014_wheat.txt,en-tête PDF,False,611,4,20,-0.6666666666666666
+2015-08-12,wasde-08-12-2015_wheat.txt,en-tête PDF,False,474,6,14,-0.4
+2016-08-12,wasde-08-12-2016_wheat.txt,en-tête PDF,False,622,5,22,-0.6296296296296297
+2021-02-09,wasde-09-02-2021_wheat.txt,en-tête PDF,False,455,3,11,-0.5714285714285714
+2021-03-09,wasde-09-03-2021_wheat.txt,en-tête PDF,False,350,1,8,-0.7777777777777778
+2019-04-09,wasde-09-04-2019_wheat.txt,en-tête PDF,False,20,0,0,0.0
+2020-04-09,wasde-09-04-2020_wheat.txt,en-tête PDF,False,331,4,3,0.14285714285714285
+2021-04-09,wasde-09-04-2021_wheat.txt,en-tête PDF,False,393,5,8,-0.23076923076923078
+1993-09-09,wasde-09-09-1993_wheat.txt,nom de fichier,False,0,0,0,
+1992-09-10,wasde-09-10-1992_wheat.txt,nom de fichier,False,0,0,0,
+1999-09-10,wasde-09-10-1999_wheat.txt,en-tête PDF,False,117,2,3,-0.2
+2004-09-10,wasde-09-10-2004_wheat.txt,en-tête PDF,False,257,2,5,-0.42857142857142855
+2010-09-10,wasde-09-10-2010_wheat.txt,en-tête PDF,False,670,11,20,-0.2903225806451613
+2020-10-09,wasde-09-10-2020_wheat.txt,en-tête PDF,False,535,10,16,-0.23076923076923078
+1998-09-11,wasde-09-11-1998_wheat.txt,en-tête PDF,False,176,3,6,-0.3333333333333333
+2003-09-11,wasde-09-11-2003_wheat.txt,en-tête PDF,False,186,5,1,0.6666666666666666
+2009-09-11,wasde-09-11-2009_wheat.txt,en-tête PDF,False,449,4,8,-0.3333333333333333
+2014-09-11,wasde-09-11-2014_wheat.txt,en-tête PDF,False,494,0,14,-1.0
+2015-09-11,wasde-09-11-2015_wheat.txt,en-tête PDF,False,422,3,13,-0.625
+1994-09-12,wasde-09-12-1994_wheat.txt,nom de fichier,False,0,0,0,
+2000-09-12,wasde-09-12-2000_wheat.txt,en-tête PDF,False,139,2,4,-0.3333333333333333
+2002-09-12,wasde-09-12-2002_wheat.txt,en-tête PDF,False,309,10,1,0.8181818181818182
+2005-09-12,wasde-09-12-2005_wheat.txt,en-tête PDF,False,243,1,6,-0.7142857142857143
+2006-09-12,wasde-09-12-2006_wheat.txt,en-tête PDF,False,162,4,5,-0.1111111111111111
+2007-09-12,wasde-09-12-2007_wheat.txt,en-tête PDF,False,409,15,9,0.25
+2008-09-12,wasde-09-12-2008_wheat.txt,en-tête PDF,False,344,3,12,-0.6
+2011-09-12,wasde-09-12-2011_wheat.txt,en-tête PDF,False,506,4,13,-0.5294117647058824
+2012-09-12,wasde-09-12-2012_wheat.txt,en-tête PDF,False,504,13,4,0.5294117647058824
+2013-09-12,wasde-09-12-2013_wheat.txt,en-tête PDF,False,699,7,22,-0.5172413793103449
+2016-09-12,wasde-09-12-2016_wheat.txt,nom de fichier,False,270,0,1,-1.0
+2017-09-12,wasde-09-12-2017_wheat.txt,en-tête PDF,False,380,2,5,-0.42857142857142855
+2018-09-12,wasde-09-12-2018_wheat.txt,en-tête PDF,False,396,1,7,-0.75
+2001-09-14,wasde-09-14-2001_wheat.txt,en-tête PDF,False,215,3,6,-0.3333333333333333
+2020-01-10,wasde-10-01-2020_wheat.txt,en-tête PDF,False,285,2,1,0.3333333333333333
+2020-03-10,wasde-10-03-2020_wheat.txt,en-tête PDF,False,425,3,16,-0.6842105263157895
+2021-06-10,wasde-10-06-2021_wheat.txt,en-tête PDF,False,435,3,23,-0.7692307692307693
+2020-07-10,wasde-10-07-2020_wheat.txt,en-tête PDF,False,456,14,14,0.0
+1992-10-08,wasde-10-08-1992_wheat.txt,nom de fichier,False,0,0,0,
+1999-10-08,wasde-10-08-1999_wheat.txt,en-tête PDF,False,96,1,1,0.0
+2010-10-08,wasde-10-08-2010_wheat.txt,en-tête PDF,False,378,4,4,0.0
+1998-10-09,wasde-10-09-1998_wheat.txt,en-tête PDF,False,170,0,0,0.0
+2009-10-09,wasde-10-09-2009_wheat.txt,en-tête PDF,False,597,7,22,-0.5172413793103449
+2015-10-09,wasde-10-09-2015_wheat.txt,en-tête PDF,False,478,4,5,-0.1111111111111111
+2003-10-10,wasde-10-10-2003_wheat.txt,en-tête PDF,False,192,6,7,-0.07692307692307693
+2008-10-10,wasde-10-10-2008_wheat.txt,en-tête PDF,False,415,4,16,-0.6
+2014-10-10,wasde-10-10-2014_wheat.txt,en-tête PDF,False,461,1,11,-0.8333333333333334
+2019-10-10,wasde-10-10-2019_wheat.txt,en-tête PDF,False,425,7,2,0.5555555555555556
+2002-10-11,wasde-10-11-2002_wheat.txt,en-tête PDF,False,224,7,2,0.5555555555555556
+2012-10-11,wasde-10-11-2012_wheat.txt,en-tête PDF,False,565,9,6,0.2
+2020-11-10,wasde-10-11-2020_wheat.txt,en-tête PDF,False,415,8,13,-0.23809523809523808
+1993-10-12,wasde-10-12-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-10-12,wasde-10-12-1994_wheat.txt,nom de fichier,False,0,0,0,
+2000-10-12,wasde-10-12-2000_wheat.txt,en-tête PDF,False,197,6,4,0.2
+2001-10-12,wasde-10-12-2001_wheat.txt,en-tête PDF,False,199,3,3,0.0
+2004-10-12,wasde-10-12-2004_wheat.txt,en-tête PDF,False,303,5,9,-0.2857142857142857
+2005-10-12,wasde-10-12-2005_wheat.txt,en-tête PDF,False,232,4,4,0.0
+2006-10-12,wasde-10-12-2006_wheat.txt,en-tête PDF,False,257,6,10,-0.25
+2007-10-12,wasde-10-12-2007_wheat.txt,en-tête PDF,False,473,11,10,0.047619047619047616
+2011-10-12,wasde-10-12-2011_wheat.txt,en-tête PDF,False,593,11,13,-0.08333333333333333
+2016-10-12,wasde-10-12-2016_wheat.txt,nom de fichier,False,263,0,1,-1.0
+2017-10-12,wasde-10-12-2017_wheat.txt,en-tête PDF,False,440,6,12,-0.3333333333333333
+2019-12-10,wasde-10-12-2019_wheat.txt,en-tête PDF,False,408,5,3,0.25
+2020-12-10,wasde-10-12-2020_wheat.txt,en-tête PDF,False,508,6,14,-0.4
+2008-10-28,wasde-10-28-2008_wheat.txt,en-tête PDF,False,0,0,0,
+2020-02-11,wasde-11-02-2020_wheat.txt,en-tête PDF,False,374,1,8,-0.7777777777777778
+2019-06-11,wasde-11-06-2019_wheat.txt,en-tête PDF,False,408,3,14,-0.6470588235294118
+2020-06-11,wasde-11-06-2020_wheat.txt,en-tête PDF,False,397,3,14,-0.6470588235294118
+2019-07-11,wasde-11-07-2019_wheat.txt,en-tête PDF,False,489,15,11,0.15384615384615385
+2013-11-08,wasde-11-08-2013_wheat.txt,en-tête PDF,False,665,9,16,-0.28
+1993-11-09,wasde-11-09-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-11-09,wasde-11-09-1994_wheat.txt,nom de fichier,False,0,0,0,
+2000-11-09,wasde-11-09-2000_wheat.txt,en-tête PDF,False,233,7,8,-0.06666666666666667
+2001-11-09,wasde-11-09-2001_wheat.txt,en-tête PDF,False,225,1,6,-0.7142857142857143
+2006-11-09,wasde-11-09-2006_wheat.txt,en-tête PDF,False,248,9,9,0.0
+2007-11-09,wasde-11-09-2007_wheat.txt,en-tête PDF,False,313,5,14,-0.47368421052631576
+2010-11-09,wasde-11-09-2010_wheat.txt,en-tête PDF,False,566,6,14,-0.4
+2011-11-09,wasde-11-09-2011_wheat.txt,en-tête PDF,False,493,2,12,-0.7142857142857143
+2012-11-09,wasde-11-09-2012_wheat.txt,en-tête PDF,False,467,7,5,0.16666666666666666
+2016-11-09,wasde-11-09-2016_wheat.txt,nom de fichier,False,259,0,0,0.0
+2017-11-09,wasde-11-09-2017_wheat.txt,en-tête PDF,False,365,0,10,-1.0
+2020-09-11,wasde-11-09-2020_wheat.txt,en-tête PDF,False,180,0,0,0.0
+1992-11-10,wasde-11-10-1992_wheat.txt,nom de fichier,False,0,0,0,
+1998-11-10,wasde-11-10-1998_wheat.txt,en-tête PDF,False,138,3,2,0.2
+1999-11-10,wasde-11-10-1999_wheat.txt,en-tête PDF,False,246,3,9,-0.5
+2005-11-10,wasde-11-10-2005_wheat.txt,en-tête PDF,False,247,3,2,0.2
+2008-11-10,wasde-11-10-2008_wheat.txt,en-tête PDF,False,425,8,8,0.0
+2009-11-10,wasde-11-10-2009_wheat.txt,en-tête PDF,False,390,3,16,-0.6842105263157895
+2014-11-10,wasde-11-10-2014_wheat.txt,en-tête PDF,False,445,1,4,-0.6
+2015-11-10,wasde-11-10-2015_wheat.txt,en-tête PDF,False,460,2,7,-0.5555555555555556
+2002-11-12,wasde-11-12-2002_China_wheat_revision_wheat.txt,nom de fichier,True,0,0,0,
+2003-11-12,wasde-11-12-2003_wheat.txt,en-tête PDF,False,134,2,2,0.0
+2004-11-12,wasde-11-12-2004_China_cotton_ending_stocks_wheat.txt,nom de fichier,True,0,0,0,
+2018-12-11,wasde-11-12-2018_wheat.txt,en-tête PDF,False,447,5,7,-0.16666666666666666
+2021-01-12,wasde-12-01-2021_wheat.txt,en-tête PDF,False,516,7,10,-0.17647058823529413
+2020-05-12,wasde-12-05-2020_wheat.txt,en-tête PDF,False,507,12,22,-0.29411764705882354
+2021-05-12,wasde-12-05-2021_wheat.txt,en-tête PDF,False,523,11,24,-0.37142857142857144
+2021-07-12,wasde-12-07-2021_wheat.txt,en-tête PDF,False,484,17,10,0.25925925925925924
+2019-08-12,wasde-12-08-2019_wheat.txt,en-tête PDF,False,407,7,5,0.16666666666666666
+2020-08-12,wasde-12-08-2020_wheat.txt,en-tête PDF,False,500,9,13,-0.18181818181818182
+1993-12-09,wasde-12-09-1993_wheat.txt,nom de fichier,False,0,0,0,
+1994-12-09,wasde-12-09-1994_wheat.txt,nom de fichier,False,0,0,0,
+2005-12-09,wasde-12-09-2005_wheat.txt,en-tête PDF,False,248,0,5,-1.0
+2011-12-09,wasde-12-09-2011_wheat.txt,en-tête PDF,False,428,3,15,-0.6666666666666666
+2015-12-09,wasde-12-09-2015_wheat.txt,en-tête PDF,False,473,0,10,-1.0
+2016-12-09,wasde-12-09-2016_wheat.txt,nom de fichier,False,463,0,3,-1.0
+2019-09-12,wasde-12-09-2019_wheat.txt,en-tête PDF,False,411,7,4,0.2727272727272727
+1992-12-10,wasde-12-10-1992_wheat.txt,nom de fichier,False,0,0,0,
+1999-12-10,wasde-12-10-1999_wheat.txt,en-tête PDF,False,121,1,3,-0.5
+2002-12-10,wasde-12-10-2002_wheat.txt,en-tête PDF,False,231,7,10,-0.17647058823529413
+2004-12-10,wasde-12-10-2004_wheat.txt,en-tête PDF,False,274,6,8,-0.14285714285714285
+2009-12-10,wasde-12-10-2009_wheat.txt,en-tête PDF,False,499,8,12,-0.2
+2010-12-10,wasde-12-10-2010_wheat.txt,en-tête PDF,False,554,11,11,0.0
+2013-12-10,wasde-12-10-2013_wheat.txt,en-tête PDF,False,521,1,17,-0.8888888888888888
+2014-12-10,wasde-12-10-2014_wheat.txt,en-tête PDF,False,539,1,24,-0.92
+1998-12-11,wasde-12-11-1998_wheat.txt,en-tête PDF,False,143,4,2,0.3333333333333333
+2001-12-11,wasde-12-11-2001_wheat.txt,en-tête PDF,False,167,5,4,0.1111111111111111
+2003-12-11,wasde-12-11-2003_wheat.txt,en-tête PDF,False,248,4,7,-0.2727272727272727
+2006-12-11,wasde-12-11-2006_wheat.txt,en-tête PDF,False,190,2,7,-0.5555555555555556
+2007-12-11,wasde-12-11-2007_wheat.txt,en-tête PDF,False,379,10,10,0.0
+2008-12-11,wasde-12-11-2008_wheat.txt,en-tête PDF,False,401,8,11,-0.15789473684210525
+2012-12-11,wasde-12-11-2012_wheat.txt,en-tête PDF,False,425,5,5,0.0
+2000-12-12,wasde-12-12-2000_wheat.txt,en-tête PDF,False,200,2,6,-0.5
+2008-12-11,wasde-12-12-2008_wheat.txt,en-tête PDF,False,401,8,11,-0.15789473684210525
+2017-12-12,wasde-12-12-2017_wheat.txt,en-tête PDF,False,434,2,11,-0.6923076923076923
+2018-10-11,WASDE-582-October-11-2018_wheat.txt,en-tête PDF,False,458,14,10,0.16666666666666666
+2022-01-12,wasde0122_wheat.txt,en-tête PDF,False,485,8,7,0.06666666666666667
+2023-01-12,wasde0123_wheat.txt,en-tête PDF,False,348,1,7,-0.75
+2024-01-12,wasde0124_wheat.txt,en-tête PDF,False,301,3,6,-0.3333333333333333
+2025-01-10,wasde0125_wheat.txt,en-tête PDF,False,237,4,9,-0.38461538461538464
+2026-01-12,wasde0126_wheat.txt,en-tête PDF,False,268,3,11,-0.5714285714285714
+2022-02-09,wasde0222_wheat.txt,en-tête PDF,False,329,0,0,0.0
+2023-02-08,wasde0223_wheat.txt,en-tête PDF,False,377,1,6,-0.7142857142857143
+2024-02-08,wasde0224_wheat.txt,en-tête PDF,False,201,5,6,-0.09090909090909091
+2025-02-11,wasde0225_wheat.txt,en-tête PDF,False,217,2,6,-0.5
+2026-02-10,wasde0226_wheat.txt,en-tête PDF,False,235,11,9,0.1
+2022-03-09,wasde0322_wheat.txt,en-tête PDF,False,376,8,11,-0.15789473684210525
+2023-03-08,wasde0323_wheat.txt,en-tête PDF,False,372,1,5,-0.6666666666666666
+2024-03-08,wasde0324_wheat.txt,en-tête PDF,False,151,4,7,-0.2727272727272727
+2025-03-11,wasde0325_wheat.txt,en-tête PDF,False,443,4,11,-0.4666666666666667
+2026-03-10,wasde0326_wheat.txt,en-tête PDF,False,181,2,7,-0.5555555555555556
+2022-04-08,wasde0422_wheat.txt,en-tête PDF,False,386,5,8,-0.23076923076923078
+2023-04-11,wasde0423_wheat.txt,en-tête PDF,False,444,5,10,-0.3333333333333333
+2024-04-11,wasde0424_wheat.txt,en-tête PDF,False,343,8,8,0.0
+2025-04-10,wasde0425v2_wheat.txt,en-tête PDF,False,274,9,6,0.2
+2026-04-09,wasde0426_wheat.txt,en-tête PDF,False,227,6,10,-0.25
+2019-05-10,wasde0519_wheat.txt,en-tête PDF,False,482,5,26,-0.6774193548387096
+2022-05-12,wasde0522_wheat.txt,en-tête PDF,False,548,17,9,0.3076923076923077
+2023-05-12,wasde0523_wheat.txt,en-tête PDF,False,517,10,13,-0.13043478260869565
+2024-05-10,wasde0524_wheat.txt,en-tête PDF,False,337,7,18,-0.44
+2025-05-12,wasde0525v2_wheat.txt,en-tête PDF,False,313,7,17,-0.4166666666666667
+2026-05-12,wasde0526v2_wheat.txt,en-tête PDF,False,321,16,8,0.3333333333333333
+2022-06-10,wasde0622_wheat.txt,en-tête PDF,False,360,7,6,0.07692307692307693
+2023-06-09,wasde0623_wheat.txt,en-tête PDF,False,294,1,22,-0.9130434782608695
+2024-06-12,wasde0624_wheat.txt,en-tête PDF,False,318,7,6,0.07692307692307693
+2025-06-12,wasde0625_wheat.txt,en-tête PDF,False,225,6,11,-0.29411764705882354
+2026-06-11,wasde0626v2_wheat.txt,en-tête PDF,False,284,8,4,0.3333333333333333
+2022-07-12,wasde0722_wheat.txt,en-tête PDF,False,438,8,13,-0.23809523809523808
+2023-07-12,wasde0723_wheat.txt,en-tête PDF,False,345,8,10,-0.1111111111111111
+2024-07-12,wasde0724_wheat.txt,en-tête PDF,False,332,2,19,-0.8095238095238095
+2025-07-11,wasde0725_wheat.txt,en-tête PDF,False,274,12,7,0.2631578947368421
+2026-07-10,wasde0726_wheat.txt,en-tête PDF,False,273,12,5,0.4117647058823529
+2021-08-12,wasde0821_wheat.txt,en-tête PDF,False,458,11,6,0.29411764705882354
+2022-08-12,wasde0822_wheat.txt,en-tête PDF,False,482,7,21,-0.5
+2023-08-11,wasde0823_wheat.txt,en-tête PDF,False,435,12,5,0.4117647058823529
+2024-08-12,wasde0824_wheat.txt,en-tête PDF,False,293,8,16,-0.3333333333333333
+2025-08-12,wasde0825_wheat.txt,en-tête PDF,False,312,11,10,0.047619047619047616
+2026-08-12,wasde0826_wheat.txt,en-tête PDF,False,273,9,7,0.125
+2021-09-10,wasde0921_wheat.txt,en-tête PDF,False,415,3,12,-0.6
+2022-09-12,wasde0922_wheat.txt,en-tête PDF,False,422,3,11,-0.5714285714285714
+2023-09-12,wasde0923_wheat.txt,en-tête PDF,False,254,8,3,0.45454545454545453
+2024-09-12,wasde0924_wheat.txt,en-tête PDF,False,250,2,11,-0.6923076923076923
+2025-09-12,wasde0925_wheat.txt,en-tête PDF,False,238,2,7,-0.5555555555555556
+2026-09-11,wasde0926_wheat.txt,en-tête PDF,False,342,5,15,-0.5
+2021-10-12,wasde1021_wheat.txt,en-tête PDF,False,405,15,2,0.7647058823529411
+2022-10-12,wasde1022_wheat.txt,en-tête PDF,False,406,8,5,0.23076923076923078
+2023-10-12,wasde1023_wheat.txt,en-tête PDF,False,285,13,10,0.13043478260869565
+2024-10-11,wasde1024_wheat.txt,en-tête PDF,False,261,11,8,0.15789473684210525
+2026-10-09,wasde1026_wheat.txt,en-tête PDF,False,393,9,15,-0.25
+2021-11-09,wasde1121_wheat.txt,en-tête PDF,False,481,8,12,-0.2
+2022-11-09,wasde1122_wheat.txt,en-tête PDF,False,466,3,11,-0.5714285714285714
+2023-11-09,wasde1123_wheat.txt,en-tête PDF,False,321,5,10,-0.3333333333333333
+2025-11-14,wasde1125_wheat.txt,en-tête PDF,False,189,0,11,-1.0
+2021-12-09,wasde1221_wheat.txt,en-tête PDF,False,468,4,9,-0.38461538461538464
+2022-12-09,wasde1222_wheat.txt,en-tête PDF,False,448,11,8,0.15789473684210525
+2023-12-08,wasde1223_wheat.txt,en-tête PDF,False,200,4,7,-0.2727272727272727
+2024-12-10,wasde1224v2_wheat.txt,en-tête PDF,False,252,8,6,0.14285714285714285
+2025-12-09,wasde1225_wheat.txt,en-tête PDF,False,194,0,9,-1.0
